@@ -17,6 +17,12 @@
                         "des": "Decentralized exchange based on AMM model",
                         "url": "https://swap.halo.land",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/hos_logo.png"
+                    },
+                    {
+                        "name": "HALO Bridge",
+                        "des": "Safe,fast and easiest cross-chain exchange",
+                        "url": "https://www.halo.land/#/bridgePage",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/halo_bridge.png"
                     }
                 ]
             }

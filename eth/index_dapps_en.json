@@ -19,10 +19,10 @@
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/sushiswap.png"
                     },
                     {
-                        "name": "Cream",
-                        "des": "C.R.E.A.M., a lending platform based on Compound Finance and exchange platform based on Balancer Labs",
-                        "url": "https://app.cream.finance",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/cream.png"
+                        "name": "Uniswap",
+                        "des": "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.",
+                        "url": "https://app.uniswap.org",
+                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/uniswap.png"
                     }
                 ]
             }
