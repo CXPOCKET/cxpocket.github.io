@@ -11,13 +11,7 @@
         "dapps": [
             {
                 "type": "hot",
-                "items": [
-                    {
-                        "name": "HOSWAP-BSC",
-                        "des": null,
-                        "url": "https://bschoswap.halo.land/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/hoswap_bsc.png"
-                    }
+                "items": [                    
                 ]
             },
             {
