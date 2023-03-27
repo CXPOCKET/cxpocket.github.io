@@ -13,12 +13,6 @@
                 "type": "热门推荐",
                 "items": [
                     {
-                        "name": "光环交易所",
-                        "des": null,
-                        "url": "https://bschoswap.halo.land/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/hoswap_bsc.png"
-                    },
-                    {
                         "name": "PancakeSwap",
                         "des": "",
                         "url": "https://exchange.pancakeswap.finance/?utm_source=tokenpocket#/swap",
