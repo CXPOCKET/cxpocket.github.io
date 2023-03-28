@@ -1,6 +1,14 @@
 {
-	"version": "1.0.0",
-	"content": "1.UI优化\n2.功能优化",
-	"url": "",
-	"downloadPageUrl":""
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "pg",
+      "protocol": "20",
+      "symbol": "pg",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/eth.png"
+    }
+  ]
 }
