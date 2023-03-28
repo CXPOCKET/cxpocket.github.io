@@ -1,0 +1,22 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://static.w3wallet.link/dappbaner/cn.png",
+                "url": "1"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "热门推荐",
+                "items": [
+                    {
+                      
+                    }
+                ]
+            }
+        ]
+    }
+}
