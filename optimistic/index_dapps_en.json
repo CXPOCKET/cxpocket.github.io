@@ -13,7 +13,7 @@
                 "type": "Hot",
                 "items": [
                     {
-                        "name": "Hot",
+                        "name": "Blockchain Browser",
                         "des": null,
                         "url": "https://optimistic.etherscan.io",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/optimistic_explorer.png"
