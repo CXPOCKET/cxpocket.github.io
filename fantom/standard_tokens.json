@@ -9,6 +9,38 @@
       "address": "",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/ftm.png"
+    },
+    {
+      "name": "Frapped USDT",
+      "protocol": "20",
+      "symbol": "fUSDT",
+      "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+      "decimals": 6,
+      "logoURI": null
+    },
+    {
+      "name": "Dai Stablecoin",
+      "protocol": "20",
+      "symbol": "DAI",
+      "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "TSHARE",
+      "protocol": "20",
+      "symbol": "TSHARE",
+      "address": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "2SHARE Token",
+      "protocol": "20",
+      "symbol": "2SHARES",
+      "address": "0xc54a1684fd1bef1f077a336e6be4bd9a3096a6ca",
+      "decimals": 18,
+      "logoURI": null
     }
   ]
 }
