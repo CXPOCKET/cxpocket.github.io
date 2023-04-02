@@ -27,11 +27,11 @@
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png"
     },
     {
-      "name": "Hurricane Token",
+      "name": "Tether USD",
       "protocol": "20",
-      "symbol": "HCT",
-      "address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
-      "decimals": 18,
+      "symbol": "USDT",
+      "address": "0xde3a24028580884448a5397872046a019649b084",
+      "decimals": 6,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png"
     }
   ]
