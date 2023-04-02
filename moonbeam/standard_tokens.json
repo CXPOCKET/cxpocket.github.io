@@ -3,12 +3,36 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": " GLMR",
+      "name": "GLMR",
       "protocol": "20",
       "symbol": "GLMR",
       "address": "",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/glmr.png"
+    },
+    {
+      "name": "Tether USD",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+      "decimals": 6,
+      "logoURI": null
+    },
+    {
+      "name": "StellaSwap",
+      "protocol": "20",
+      "symbol": "STELLA",
+      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Binance",
+      "protocol": "20",
+      "symbol": "BNB",
+      "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+      "decimals": 18,
+      "logoURI": null
     }
   ]
 }
