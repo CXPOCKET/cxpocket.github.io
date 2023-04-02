@@ -11,12 +11,100 @@
       "logoURI": "https://hashpay.gitee.io/icon/bnbtoken.jpg"
     },
     {
-      "name": " ",
+      "name": "Binance-Peg BSC-USD",
       "protocol": "20",
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1611130821621.png"
+      "logoURI": null
+    },
+    {
+      "name": "Binance-Peg Dai Token",
+      "protocol": "20",
+      "symbol": "DAI",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Binance-Peg USD Coin",
+      "protocol": "20",
+      "symbol": "USDC",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "PancakeSwap Token",
+      "protocol": "20",
+      "symbol": "Cake",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Binance-Peg Dogecoin Token",
+      "protocol": "20",
+      "symbol": "DOGE",
+      "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "decimals": 8,
+      "logoURI": null
+    },
+    {
+      "name": "Binance-Peg BSC-HO",
+      "protocol": "20",
+      "symbol": "BSC-HO",
+      "address": "0x41515885251e724233c6ca94530d6dcf3a20dec7",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "W3Swap Token",
+      "protocol": "20",
+      "symbol": "W3",
+      "address": "0x7d6801e8cf716e6a06914b7106578f3beb40e51d",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Pego token",
+      "protocol": "20",
+      "symbol": "PG",
+      "address": "0xfa82075a6d8f85be9146e64e0f02baa849f8e8fb",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "FogDao Token",
+      "protocol": "20",
+      "symbol": "FOG",
+      "address": "0x079a1e0c6f1eb4912064670255d6084edce4f454",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "MetaPoint",
+      "protocol": "20",
+      "symbol": "POT",
+      "address": "0x3b5e381130673f794a5cf67fbba48688386bea86",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Pego eco-governance token",
+      "protocol": "20",
+      "symbol": "OSK-DAO",
+      "address": "0xc5db5afee4c55dfad5f2b8226c6ac882e6956a0a",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Binance-Peg Filecoin",
+      "protocol": "20",
+      "symbol": "FIL",
+      "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+      "decimals": 18,
+      "logoURI": null
     }
   ]
 }
