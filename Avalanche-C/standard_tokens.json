@@ -9,6 +9,14 @@
       "address": "",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png"
+    },
+    {
+      "name": "Tether USD",
+      "protocol": "20",
+      "symbol": "USDT.e",
+      "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "decimals": 6,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/avax.png"
     }
   ]
 }
