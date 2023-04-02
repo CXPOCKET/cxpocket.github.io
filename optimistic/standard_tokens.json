@@ -8,7 +8,63 @@
       "symbol": "ETH",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/eth.png"
+      "logoURI": "https://static.w3wallet.link/eth/eth/eth.png"
+    },
+    {
+      "name": "Optimism",
+      "protocol": "20",
+      "symbol": "OP",
+      "address": "0x4200000000000000000000000000000000000042",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Tether USD",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+      "decimals": 6,
+      "logoURI": null
+    },
+    {
+      "name": "Dai Stablecoin",
+      "protocol": "20",
+      "symbol": "DAI",
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "USD Coin",
+      "protocol": "20",
+      "symbol": "USDC",
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "decimals": 6,
+      "logoURI": null
+    },
+    {
+      "name": "Wrapped BTC",
+      "protocol": "20",
+      "symbol": "WBTC",
+      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "decimals": 8,
+      "logoURI": null
+    },
+    {
+      "name": "Wrapped Ether",
+      "protocol": "20",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Velodrome",
+      "protocol": "20",
+      "symbol": "VELO",
+      "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
+      "decimals": 18,
+      "logoURI": null
     }
   ]
 }
