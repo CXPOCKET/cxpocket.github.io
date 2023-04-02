@@ -9,6 +9,22 @@
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/ethc.jpg",
       "protocol": "20"
+    },
+    {
+      "symbol": "HEBE",
+      "address": "0x88d8c3dc6b5324f34e8cf229a93e197048671abd",
+      "name": "HEBE",
+      "decimals": 18,
+      "logoURI": null,
+      "protocol": "20"
+    },
+    {
+      "symbol": "Wrapped ETC",
+      "address": "0x82a618305706b14e7bcf2592d4b9324a366b6dad",
+      "name": "WETC",
+      "decimals": 18,
+      "logoURI": null,
+      "protocol": "20"
     }
   ]
 }
