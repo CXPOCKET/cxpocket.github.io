@@ -37,7 +37,7 @@
     {
       "name": "Wrapped Ether",
       "protocol": "20",
-      "symbol": "USDC",
+      "symbol": "WETH",
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "decimals": 18,
       "logoURI": null
