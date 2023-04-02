@@ -11,12 +11,20 @@
       "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/halo_logo.png"
     },
     {
+      "name": "HOS",
+      "protocol": "20",
+      "symbol": "HOS",
+      "address": "0x6b61e560daE09b2488e8fc597eABAfeafC3A5EF1",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
       "name": "USDT",
       "protocol": "20",
       "symbol": "USDT",
       "address": "0x41515885251e724233c6cA94530d6dcf3A20dEc7",
       "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/USDT-HORC-PNG-96.png"
+      "logoURI": null
     }
   ]
 }
