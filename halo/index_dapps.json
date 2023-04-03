@@ -14,16 +14,16 @@
                 "type": "热门",
                 "items": [
                     {
-                        "name": "光环交易所",
-                        "des": "基于AMM模型的去中心化交易所",
-                        "url": "https://swap.halo.land",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/hos_logo.png"
+                        "name": "HOSwap",
+                        "des": "",
+                        "url": "https://bschoswap.halo.land/",
+                        "logo": "https://static.w3wallet.link/halo/dapplogo/HOSwap.png"
                     },
                     {
                         "name": "光环桥",
-                        "des": "安全、便捷、快速的跨链兑换",
+                        "des": "",
                         "url": "https://www.halo.land/#/bridgePage",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/halo_bridge.png"
+                        "logo": "https://static.w3wallet.link/halo/dapplogo/Halo_Bridge.png"
                     }
                     
                 ]
