@@ -13,10 +13,10 @@
                 "type": "热门推荐",
                 "items": [
                     {
-                        "name": "区块链浏览器",
-                        "des": null,
-                        "url": "https://moonbeam.moonscan.io",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/moonbeam_explorer.png"
+                      "name": "Pancakeswap",
+                      "des": "PancakeSwap 是币安智能链上领先的去中心化平台，可以随意的进行交易、赚取和赢取加密货币。",
+                      "url": "https://pancakeswap.finance/",
+                      "logo": "https://static.w3wallet.link/etc/dapplogo/Pancakeswap.png"
                     }
                 ]
             }
