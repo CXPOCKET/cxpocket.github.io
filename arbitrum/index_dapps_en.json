@@ -14,10 +14,16 @@
                 "type": "Hot",
                 "items": [
                     {
-                        "name": "Explorer",
-                        "des": null,
-                        "url": "https://arbiscan.io/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/arbitrum_explorer.png"
+                        "name": "GMX",
+                        "des": "Trade BTC, ETH, AVAX and other top cryptocurrencies with up to 50x leverage directly from your wallet",
+                        "url": "https://gmx.io",
+                        "logo": "https://static.w3wallet.link/arbitrum/dapplogo/GMX.png"
+                    },
+                    {
+                        "name": "Defined",
+                        "des": "Defined is a data platform for the open web that empowers users to query on-chain data and interact across multiple blockchains and DeFi protocols.",
+                        "url": "https://www.defined.fi/",
+                        "logo": "https://static.w3wallet.link/arbitrum/dapplogo/Defined.png"
                     }
                 ]
             }
