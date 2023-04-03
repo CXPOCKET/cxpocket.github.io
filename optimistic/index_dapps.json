@@ -13,10 +13,22 @@
                 "type": "热门推荐",
                 "items": [
                     {
-                        "name": "区块链浏览器",
-                        "des": null,
+                        "name": "Uniswap",
+                        "des": "Uniswap是一种用于交换加密货币的分散金融协议，该协议通过使用只能合约促进以太坊区块链上的加密货币令牌之间的自动化交易。",
+                        "url": "https://app.uniswap.org",
+                        "logo": "https://static.w3wallet.link/optimistic/dapplogo/curve.png"
+                    },
+                    {
+                        "name": "Optimism Gateway",
+                        "des": "Optimism二层网络资产提取工具",
+                        "url": "https://gateway.optimism.io/",
+                        "logo": "https://static.w3wallet.link/optimistic/dapplogo/Optimism_Gateway.png"
+                    },
+                    {
+                        "name": "Optimisticscan",
+                        "des": "Optimistic以太坊浏览器",
                         "url": "https://optimistic.etherscan.io",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/optimistic_explorer.png"
+                        "logo": "https://static.w3wallet.link/optimistic/dapplogo/Optimisticscan.png"
                     }
                 ]
             }
