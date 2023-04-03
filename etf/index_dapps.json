@@ -16,13 +16,19 @@
                         "name": "Pancakeswap",
                         "des": "PancakeSwap 是币安智能链上领先的去中心化平台，可以随意的进行交易、赚取和赢取加密货币。",
                         "url": "https://pancakeswap.finance/",
+                        "logo": "https://static.w3wallet.link/etf/dapplogo/uniswap.png"
+                    },
+                    {
+                        "name": "Uniswap",
+                        "des": "Uniswap是一种用于交换加密货币的分散金融协议，该协议通过使用只能合约促进以太坊区块链上的加密货币令牌之间的自动化交易。",
+                        "url": "https://app.uniswap.org",
                         "logo": "https://static.w3wallet.link/eth/dapplogo/uniswap.png"
                     },
                     {
                         "name": "Sushiswap",
                         "des": "Sushiswap由社区创建，拥有开源生态，提供你所需的所有DeFi工具。",
                         "url": "https://www.sushi.com/swap",
-                        "logo": "https://static.w3wallet.link/eth/dapplogo/Sushiswap.png"
+                        "logo": "https://static.w3wallet.link/etf/dapplogo/Sushiswap.png"
                     }
                 ]
             }
