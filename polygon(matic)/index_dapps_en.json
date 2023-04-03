@@ -13,10 +13,16 @@
                 "type": "Hot",
                 "items": [
                     {
-                        "name": "Explorer",
-                        "des": null,
-                        "url": "https://polygonscan.com/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/polygon_explorer.png"
+                        "name": "Pancakeswap",
+                        "des": "Pancakeswap is an advanced decentralized platform built on BSC for users to trade, earn, and win cryptocurrencies freely.",
+                        "url": "https://pancakeswap.finance/",
+                        "logo": "https://static.w3wallet.link/polygon(matic)/dapplogo/Pancakeswap.png"
+                    },
+                    {
+                        "name": "MMF",
+                        "des": "An innovative application on Polygon",
+                        "url": "https://polymm.finance/",
+                        "logo": "https://static.w3wallet.link/polygon(matic)/dapplogo/MMF.png"
                     }
                 ]
             }
