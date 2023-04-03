@@ -19,6 +19,12 @@
                       "logo": "https://static.w3wallet.link/etc/dapplogo/Pancakeswap.png"
                     },
                     {
+                        "name": "Uniswap",
+                        "des": "Uniswap is a DeFi protocol for exchanging cryptocurrencies. Through its smart contracts, cryptocurrency trading on the Ethereum blockchain can be facilitated automatically.",
+                        "url": "https://app.uniswap.org",
+                        "logo": "https://static.w3wallet.link/eth/dapplogo/uniswap.png"
+                    },
+                    {
                       "name": "CoinRabbit",
                       "des": "Get crypto loans instantly",
                       "url": "https://coinrabbit.io/",
