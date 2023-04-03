@@ -13,10 +13,16 @@
                 "type": "热门推荐",
                 "items": [
                     {
-                        "name": "区块链浏览器",
-                        "des": null,
-                        "url": "https://polygonscan.com/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/polygon_explorer.png"
+                        "name": "Pancakeswap",
+                        "des": "PancakeSwap 是币安智能链上领先的去中心化平台，可以随意的进行交易、赚取和赢取加密货币。",
+                        "url": "https://pancakeswap.finance/",
+                        "logo": "https://static.w3wallet.link/polygon(matic)/dapplogo/Pancakeswap.png"
+                    },
+                    {
+                        "name": "MMF",
+                        "des": "Polygon上的创新性应用",
+                        "url": "https://polymm.finance/",
+                        "logo": "https://static.w3wallet.link/polygon(matic)/dapplogo/MMF.png"
                     }
                 ]
             }
