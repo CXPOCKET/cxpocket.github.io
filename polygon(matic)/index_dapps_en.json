@@ -19,6 +19,12 @@
                         "logo": "https://static.w3wallet.link/polygon(matic)/dapplogo/Pancakeswap.png"
                     },
                     {
+                        "name": "Uniswap",
+                        "des": "Uniswap is a DeFi protocol for exchanging cryptocurrencies. Through its smart contracts, cryptocurrency trading on the Ethereum blockchain can be facilitated automatically.",
+                        "url": "https://app.uniswap.org",
+                        "logo": "https://static.w3wallet.link/eth/dapplogo/uniswap.png"
+                    },
+                    {
                         "name": "MMF",
                         "des": "An innovative application on Polygon",
                         "url": "https://polymm.finance/",
