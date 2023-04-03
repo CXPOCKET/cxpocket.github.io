@@ -14,6 +14,12 @@
                 "type": "热门推荐",
                 "items": [
                     {
+                        "name": "Unifi Protocol",
+                        "des": "为实现真正可持续区块链经济打造基石",
+                        "url": "https://unifiprotocol.com/",
+                        "logo": "https://static.w3wallet.link/bttc/dapplogo/Unifi_Protocol.png"
+                    },
+                    {
                         "name": "区块链浏览器",
                         "des": null,
                         "url": "https://bttcscan.com/",
