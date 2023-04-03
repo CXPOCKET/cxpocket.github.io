@@ -20,7 +20,7 @@
                         "logo": "https://static.w3wallet.link/bttc/dapplogo/Unifi_Protocol.png"
                     },
                     {
-                        "name": "区块链浏览器",
+                        "name": "BttcScan",
                         "des": null,
                         "url": "https://bttcscan.com/",
                         "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/bittorrent_explorer.png"
