@@ -13,10 +13,10 @@
                 "type": "Hot",
                 "items": [
                     {
-                        "name": "Blockchain Explorer",
-                        "des": null,
-                        "url": "https://moonbeam.moonscan.io",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/moonbeam_explorer.png"
+                      "name": "Pancakeswap",
+                      "des": "Pancakeswap is an advanced decentralized platform built on BSC for users to trade, earn, and win cryptocurrencies freely.",
+                      "url": "https://pancakeswap.finance/",
+                      "logo": "https://static.w3wallet.link/etc/dapplogo/Pancakeswap.png"
                     }
                 ]
             }
