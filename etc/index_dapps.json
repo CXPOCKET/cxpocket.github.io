@@ -13,10 +13,22 @@
                 "type": "hot",
                 "items": [
                     {
-                      "name": "区块浏览器",
-                      "des": "",
-                      "url": "https://blockscout.com/etc/mainnet",
-                      "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/etc.jpg"
+                      "name": "Pancakeswap",
+                      "des": "PancakeSwap 是币安智能链上领先的去中心化平台，可以随意的进行交易、赚取和赢取加密货币。",
+                      "url": "https://pancakeswap.finance/",
+                      "logo": "https://static.w3wallet.link/etc/dapplogo/Pancakeswap.png"
+                    },
+                    {
+                      "name": "CoinRabbit",
+                      "des": "获得即时加密贷款",
+                      "url": "https://coinrabbit.io/",
+                      "logo": "https://static.w3wallet.link/etc/dapplogo/CoinRabbit.png"
+                    },
+                    {
+                      "name": "ETC Swap",
+                      "des": "以太坊经典swap",
+                      "url": "https://swap.ethereumclassic.com/#/swap",
+                      "logo": "https://static.w3wallet.link/etc/dapplogo/ETC_Swap.png"
                     }
                 ]
             }
