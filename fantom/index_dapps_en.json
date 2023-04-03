@@ -13,10 +13,22 @@
                 "type": "Hot",
                 "items": [
                     {
-                        "name": "Blockchain Explorer",
-                        "des": null,
-                        "url": "https://ftmscan.com",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/fantom_blockchain_explorer.png"
+                        "name": "Curve",
+                        "des": "Creating deep on-chain liquidity using advanced bonding curves,",
+                        "url": "https://curve.fi",
+                        "logo": "https://static.w3wallet.link/fantom/dapplogo/Curve.png"
+                    },
+                    {
+                        "name": "Sushiswap",
+                        "des": "A community-built open-source ecosystem of all the DeFi tools you need",
+                        "url": "https://www.sushi.com/swap",
+                        "logo": "https://static.w3wallet.link/fantom/dapplogo/Sushiswap.png"
+                    },
+                    {
+                        "name": "SpookySwap",
+                        "des": "A FTM-based and community-powered DEX",
+                        "url": "https://spooky.fi/",
+                        "logo": "https://static.w3wallet.link/fantom/dapplogo/SpookySwap.png"
                     }
                 ]
             }
