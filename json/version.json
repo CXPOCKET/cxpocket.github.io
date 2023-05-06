@@ -1,6 +1,6 @@
 {
-	"version": "1.0.3",
-	"content": "1.UI优化\n2.功能优化",
+	"version": "1.0.4",
+	"content": "1.优化批量创建功能.\n2.优化导入功能；\n3.优化观察钱包删除功能；\n4.增加网页进度条展示；",
 	"url": "",
 	"downloadPageUrl":"https://w3wallet.link/"
 }
