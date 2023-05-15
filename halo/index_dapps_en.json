@@ -13,16 +13,16 @@
                 "type": "hots",
                 "items": [
                     {
-                        "name": "HOSWAP",
-                        "des": "Decentralized exchange based on AMM model",
-                        "url": "https://swap.halo.land",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/hos_logo.png"
+                        "name": "HOSwap",
+                        "des": "",
+                        "url": "https://bschoswap.halo.land/",
+                        "logo": "https://static.w3wallet.link/halo/dapplogo/HOSwap.png"
                     },
                     {
-                        "name": "HALO Bridge",
-                        "des": "Safe,fast and easiest cross-chain exchange",
+                        "name": "Halo Bridge",
+                        "des": "",
                         "url": "https://www.halo.land/#/bridgePage",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/halo/halo_bridge.png"
+                        "logo": "https://static.w3wallet.link/halo/dapplogo/Halo_Bridge.png"
                     }
                 ]
             }

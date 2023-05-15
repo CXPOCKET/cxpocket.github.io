@@ -12,13 +12,31 @@
       {
         "type": "hot",
         "items": [
-          {
-            "name": "Block Browser",
-            "des": "",
-            "url": "https://blockscout.com/etc/mainnet",
-            "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/eth/etc.jpg"
-          }
-        ]
+                    {
+                      "name": "Pancakeswap",
+                      "des": "Pancakeswap is an advanced decentralized platform built on BSC for users to trade, earn, and win cryptocurrencies freely.",
+                      "url": "https://pancakeswap.finance/",
+                      "logo": "https://static.w3wallet.link/etc/dapplogo/Pancakeswap.png"
+                    },
+                    {
+                        "name": "Uniswap",
+                        "des": "Uniswap is a DeFi protocol for exchanging cryptocurrencies. Through its smart contracts, cryptocurrency trading on the Ethereum blockchain can be facilitated automatically.",
+                        "url": "https://app.uniswap.org",
+                        "logo": "https://static.w3wallet.link/eth/dapplogo/uniswap.png"
+                    },
+                    {
+                      "name": "CoinRabbit",
+                      "des": "Get crypto loans instantly",
+                      "url": "https://coinrabbit.io/",
+                      "logo": "https://static.w3wallet.link/etc/dapplogo/CoinRabbit.png"
+                    },
+                    {
+                      "name": "ETC Swap",
+                      "des": "A Swap for Ethereum classic",
+                      "url": "https://swap.ethereumclassic.com/#/swap",
+                      "logo": "https://static.w3wallet.link/etc/dapplogo/ETC_Swap.png"
+                    }
+                 ]
       }
     ]
   }

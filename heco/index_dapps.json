@@ -14,17 +14,23 @@
                 "type": "热门推荐",
                 "items": [
                     {
-                        "name": "Mdex",
-                        "des": "每笔交易都有免费的MDX，费用是免费的!",
-                        "url": "https://ht.mdex.co/#/swap",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/heco/mdex.png"
+                        "name": "Defibox",
+                        "des": "一站式多链DeFi应用平台",
+                        "url": "https://defibox.io/",
+                        "logo": "https://static.w3wallet.link/heco/dapplogo/Defibox.png"
                     },
                     {
-                        "name": "Heco浏览器",
-                        "des": "火币生态链探索者",
-                        "url": "https://hecoinfo.com/",
-                        "logo": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/heco/heco_browser.png"
-                    }
+                        "name": "Solo.top",
+                        "des": "单币无损挖矿收益聚合平台",
+                        "url": "https://solo.top/",
+                        "logo": "https://static.w3wallet.link/heco/dapplogo/Solo.top.png"
+                    },
+                    {
+                        "name": "Mdex",
+                        "des": "DeFi生态最大的集DEX、IMO、DAO为一体的平台",
+                        "url": "https://ht.mdex.co/#/swap",
+                        "logo": "https://static.w3wallet.link/heco/dapplogo/Mdex.png"
+                    }   
                 ]
             }
         ]

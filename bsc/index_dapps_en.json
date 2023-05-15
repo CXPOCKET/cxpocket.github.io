@@ -14,9 +14,21 @@
                 "items": [
                     {
                         "name": "PancakeSwap",
-                        "des": "",
-                        "url": "https://exchange.pancakeswap.finance/?utm_source=tokenpocket#/swap",
-                        "logo": "https://static.w3wallet.link/bsc/hot_dapp/pancake.png"
+                        "des": "Pancakeswap is an advanced decentralized platform built on BSC for users to trade, earn, and win cryptocurrencies freely.",
+                        "url": "https://pancakeswap.finance",
+                        "logo": "https://static.w3wallet.link/bsc/dapplogo/Pancakeswap.png"
+                    },
+                    {
+                        "name": "Uniswap",
+                        "des": "Uniswap is a DeFi protocol for exchanging cryptocurrencies. Through its smart contracts, cryptocurrency trading on the Ethereum blockchain can be facilitated automatically.",
+                        "url": "https://app.uniswap.org",
+                        "logo": "https://static.w3wallet.link/bsc/dapplogo/Uniswap.png"
+                    },
+                    {
+                        "name": "W3Swap",
+                        "des": "Building an adaptive trading ecosystem with high liquidity to bring disruptive innovations to the Web3.0 world.",
+                        "url": "https://www.w3swap.finance",
+                        "logo": "https://static.w3wallet.link/bsc/dapplogo/W3Swap.png"
                     }
                 ]
             }

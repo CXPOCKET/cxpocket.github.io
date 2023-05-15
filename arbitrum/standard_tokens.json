@@ -8,7 +8,63 @@
       "symbol": "ETH",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/eth.png"
+      "logoURI": "https://static.w3wallet.link/eth/eth/eth.png"
+    },
+    {
+      "name": "Arbitrum",
+      "protocol": "20",
+      "symbol": "ARB",
+      "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Tether USD",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "decimals": 6,
+      "logoURI": null
+    },
+    {
+      "name": "USD Coin (Arb1)",
+      "protocol": "20",
+      "symbol": "USDC",
+      "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+      "decimals": 6,
+      "logoURI": null
+    },
+    {
+      "name": "MAGIC",
+      "protocol": "20",
+      "symbol": "MAGIC",
+      "address": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "GMX",
+      "protocol": "20",
+      "symbol": "GMX",
+      "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "name": "Wrapped BTC",
+      "protocol": "20",
+      "symbol": "WBTC",
+      "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+      "decimals": 8,
+      "logoURI": null
+    },
+    {
+      "name": "Wrapped Ether",
+      "protocol": "20",
+      "symbol": "WETH",
+      "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+      "decimals": 18,
+      "logoURI": null
     }
   ]
 }

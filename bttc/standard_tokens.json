@@ -9,6 +9,14 @@
       "address": "",
       "decimals": 18,
       "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/btt.png"
+    },
+    {
+      "name": "TRX",
+      "protocol": "20",
+      "symbol": "TRX",
+      "address": "0xedf53026aea60f8f75fca25f8830b7e2d6200662",
+      "decimals": 6,
+      "logoURI": null
     }
   ]
 }
