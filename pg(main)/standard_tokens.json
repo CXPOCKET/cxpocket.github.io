@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "PG",
+      "protocol": "20",
+      "symbol": "PG",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://static.w3wallet.link/pg/pg/pg.jpg"
+    }
+  ]
+}
