@@ -1,6 +1,6 @@
 {
-	"version": "1.0.4",
-	"content": "1.优化批量创建功能.\n2.优化导入功能；\n3.优化观察钱包删除功能；\n4.增加网页进度条展示；",
+	"version": "1.0.5",
+	"content": "1.新增PEGO主网，并作为钱包默认网络.\n2.修复精度为0的代币支持。",
 	"url": "",
 	"downloadPageUrl":"https://w3wallet.link/"
 }
