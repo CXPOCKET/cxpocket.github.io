@@ -40,15 +40,7 @@
       "symbol": "W3",
       "address": "0x9Bac79BC5a0EDe5E1a3A422f6f58Fd764bA7652F",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/w3.png"
-    },
-    {
-      "name": "W3",
-      "protocol": "20",
-      "symbol": "W3",
-      "address": "0x9Bac79BC5a0EDe5E1a3A422f6f58Fd764bA7652F",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/w3.png"
+      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/w3(2).png"
     },
     {
       "name": "PNS",
@@ -64,7 +56,7 @@
       "symbol": "PNN",
       "address": "0x59a25CB6A4fE264d698ba9a2816C47778280aBbA",
       "decimals": 0,
-      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/pns.png"
+      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/pnn.png"
     }
   ]
 }
