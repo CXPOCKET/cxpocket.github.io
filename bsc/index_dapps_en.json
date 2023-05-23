@@ -23,8 +23,19 @@
                         "des": "Building an adaptive trading ecosystem with high liquidity to bring disruptive innovations to the Web3.0 world.",
                         "url": "https://www.w3swap.finance",
                         "logo": "https://static.w3wallet.link/bsc/dapplogo/W3Swap.png"
+                    },
+                    {
+                        "name": "W3 Bridge",
+                        "des": "",
+                        "url": "https://www.w3bridge.net/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Mapping",
+                        "des": "",
+                        "url": "https://map.w3swap.link/#/",
+                        "logo": "https://static.w3wallet.link/bsc/dapplogo/W3Swap.png"
                     }
-                   
                 ]
             }
         ]
