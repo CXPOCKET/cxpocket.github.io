@@ -1,5 +1,30 @@
 {
   "errorCode": 0,
   "reason": "获取成功",
-  "data": []
+  "data": [
+     {
+      "name": "USDT",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "0x02F9Bebf5E54968D8Cc2562356C91ECDE135801B",
+      "decimals": 18,
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
+      },
+     {
+      "name": "OSKDAO",
+      "protocol": "20",
+      "symbol": "OSKDAO",
+      "address": "0x1385Aa68AC960Abb0112aa5905FACE08EFe48053",
+      "decimals": 18,
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
+      },
+      {
+      "name": "W3",
+      "protocol": "20",
+      "symbol": "W3",
+      "address": "0xf88634C560a4AA2c6034DAd4Dc5e931A65cdF954",
+      "decimals": 18,
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
+      }
+  ]
 }
