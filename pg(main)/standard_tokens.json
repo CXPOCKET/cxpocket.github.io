@@ -104,7 +104,7 @@
       "symbol": "W3-LP(PG/OSKDAO)",
       "address": "0x91bbFbA8ad863AC66b8eA74429a183a31944d096",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/W3-LP(PG:OSKDAO).png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3-LP(PG:OSKDAO).png"
     },
     {
       "name": "W3FT(PG/OSKDAO)",
@@ -112,7 +112,7 @@
       "symbol": "W3FT(PG/OSKDAO)",
       "address": "0xD5683B68e9087A39150B113cBb5aF5e6C119A3B3",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3FT(PG:OSKDAO).png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3FT(PG:OSKDAO) .png"
     }
   ]
 }
