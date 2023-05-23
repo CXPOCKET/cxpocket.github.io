@@ -16,7 +16,7 @@
                         "name": "PEGO-HOME",
                         "des": "",
                         "url": "https://pego.network/",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     },
                     {
                         "name": "W3Swap",
@@ -34,19 +34,19 @@
                         "name": "Explorer",
                         "des": "",
                         "url": "https://scan.pego.network/",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     },
                     {
                         "name": "DAO",
                         "des": "",
                         "url": "https://pego.network/#/DAO",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     },
                     {
                         "name": "Node",
                         "des": "",
                         "url": "https://pego.network/#/PEGOScan",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     }
                 ]
             }
