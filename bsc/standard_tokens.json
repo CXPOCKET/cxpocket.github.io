@@ -16,7 +16,7 @@
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/usdt.png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/usdt.png"
     },
     {
       "name": "PG",
