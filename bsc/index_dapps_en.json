@@ -13,16 +13,10 @@
                 "type": "hot",
                 "items": [
                     {
-                        "name": "PancakeSwap",
-                        "des": "Pancakeswap is an advanced decentralized platform built on BSC for users to trade, earn, and win cryptocurrencies freely.",
-                        "url": "https://pancakeswap.finance",
-                        "logo": "https://static.w3wallet.link/bsc/dapplogo/Pancakeswap.png"
-                    },
-                    {
-                        "name": "Uniswap",
-                        "des": "Uniswap is a DeFi protocol for exchanging cryptocurrencies. Through its smart contracts, cryptocurrency trading on the Ethereum blockchain can be facilitated automatically.",
-                        "url": "https://app.uniswap.org",
-                        "logo": "https://static.w3wallet.link/bsc/dapplogo/Uniswap.png"
+                        "name": "PEGO-HOME",
+                        "des": "",
+                        "url": "https://pego.network/",
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     },
                     {
                         "name": "W3Swap",
@@ -30,6 +24,7 @@
                         "url": "https://www.w3swap.finance",
                         "logo": "https://static.w3wallet.link/bsc/dapplogo/W3Swap.png"
                     }
+                   
                 ]
             }
         ]
