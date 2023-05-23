@@ -48,7 +48,7 @@
       "symbol": "PNN",
       "address": "0x59a25CB6A4fE264d698ba9a2816C47778280aBbA",
       "decimals": 0,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/pnn.png"
+      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/pnn.png"
     },
     {
       "name": "PG",
@@ -88,7 +88,7 @@
       "symbol": "FOG",
       "address": "0x079a1e0c6f1eb4912064670255d6084edce4f454",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://static.w3wallet.link/bsc/0x079a1e0c6f1eb4912064670255d6084edce4f454/logo.png"
     },
     {
       "name": "MetaPoint",
@@ -96,7 +96,7 @@
       "symbol": "POT",
       "address": "0x3b5e381130673f794a5cf67fbba48688386bea86",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://static.w3wallet.link/bsc/0x3b5e381130673f794a5cf67fbba48688386bea86/logo.png"
     }
   ]
 }
