@@ -13,21 +13,27 @@
                 "type": "热门推荐",
                 "items": [
                     {
-                        "name": "PancakeSwap",
-                        "des": "PancakeSwap 是币安智能链上领先的去中心化平台，可以随意的进行交易、赚取和赢取加密货币。",
-                        "url": "https://pancakeswap.finance",
-                        "logo": "https://static.w3wallet.link/bsc/dapplogo/Pancakeswap.png"
-                    },
-                    {
-                        "name": "Uniswap",
-                        "des": "Uniswap是一种用于交换加密货币的分散金融协议，该协议通过使用只能合约促进以太坊区块链上的加密货币令牌之间的自动化交易。",
-                        "url": "https://app.uniswap.org",
-                        "logo": "https://static.w3wallet.link/bsc/dapplogo/Uniswap.png"
+                        "name": "PEGO官网",
+                        "des": "",
+                        "url": "https://pego.network/",
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     },
                     {
                         "name": "W3Swap",
-                        "des": "以颠覆式创新形式立足WEB3，打造聚合高流动性的自适应交易生态。",
+                        "des": "Building an adaptive trading ecosystem with high liquidity to bring disruptive innovations to the Web3.0 world.",
                         "url": "https://www.w3swap.finance",
+                        "logo": "https://static.w3wallet.link/bsc/dapplogo/W3Swap.png"
+                    },
+                    {
+                        "name": "W3跨链桥",
+                        "des": "",
+                        "url": "https://www.w3bridge.net/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "合约映射",
+                        "des": "",
+                        "url": "https://map.w3swap.link/#/",
                         "logo": "https://static.w3wallet.link/bsc/dapplogo/W3Swap.png"
                     }
                 ]
