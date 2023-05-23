@@ -16,7 +16,7 @@
                         "name": "PEGO官网",
                         "des": "",
                         "url": "https://pego.network/",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     },
                     {
                         "name": "W3Swap",
@@ -34,19 +34,19 @@
                         "name": "浏览器",
                         "des": "",
                         "url": "https://scan.pego.network/",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     },
                     {
                         "name": "治理",
                         "des": "",
                         "url": "https://pego.network/#/DAO",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     },
                     {
                         "name": "节点竞选",
                         "des": "",
                         "url": "https://pego.network/#/PEGOScan",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     }
                 ]
             }
