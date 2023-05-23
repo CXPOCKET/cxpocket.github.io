@@ -13,10 +13,40 @@
                 "type": "热门推荐",
                 "items": [
                     {
+                        "name": "PEGO-HOME",
+                        "des": "",
+                        "url": "https://pego.network/",
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                    },
+                    {
                         "name": "W3Swap",
-                        "des": "Building an adaptive trading ecosystem with high liquidity to bring disruptive innovations to the Web3.0 world.",
+                        "des": "以颠覆式创新形式立足WEB3，打造聚合高流动性的自适应交易生态。",
                         "url": "https://w3swap.link",
                         "logo": "https://static.w3wallet.link/pg(main)/dapplogo/W3Swap.png"
+                    },
+                    {
+                        "name": "W3 Bridge",
+                        "des": "",
+                        "url": "https://www.w3bridge.net/",
+                        "logo": ""
+                    },
+                    {
+                        "name": "Explorer",
+                        "des": "",
+                        "url": "https://scan.pego.network/",
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                    },
+                    {
+                        "name": "DAO",
+                        "des": "",
+                        "url": "https://pego.network/#/DAO",
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
+                    },
+                    {
+                        "name": "Node",
+                        "des": "",
+                        "url": "https://pego.network/#/PEGOScan",
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.png"
                     }
                 ]
             }
