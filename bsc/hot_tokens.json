@@ -3,140 +3,100 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": " ",
+      "name": "Binance-Peg BSC-USD",
       "protocol": "20",
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/halo/0x41515885251e724233c6cA94530d6dcf3A20dEc7/logo.png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/usdt.png"
     },
     {
-      "name": "BSC-HO",
+      "name": "PG",
       "protocol": "20",
-      "symbol": "BSC-HO",
-      "address": "0x41515885251e724233c6ca94530d6dcf3a20dec7",
+      "symbol": "PG",
+      "address": "0x7bb8bb3e4f3f8c40d4ab3ba07622453c8d8cc949",
       "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/0909.png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/pg3.png"
     },
     {
-      "name": "BUSD Token\n",
+      "name": "OSKDAO",
       "protocol": "20",
-      "symbol": "BUSD",
-      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "OSKDAO",
+      "address": "0x8555af519D6E98612EA22179213C60fD6cbbd7ca",
       "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1611130804559.png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/oskdao.png"
     },
     {
-      "name": "HOS",
+      "name": "W3",
       "protocol": "20",
-      "symbol": "HOS",
-      "address": "0xa0949f33fa921ca2571d469a1a4b08649838d34c",
+      "symbol": "W3",
+      "address": "0x9Bac79BC5a0EDe5E1a3A422f6f58Fd764bA7652F",
       "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/hos-logo.png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/w3(2).png"
     },
     {
-      "name": "HOR",
+      "name": "PNS",
       "protocol": "20",
-      "symbol": "HOR",
-      "address": "0xc399debeaa5a580d3aabdaf1164ed8f056d09fc8",
+      "symbol": "PNS",
+      "address": "0x815c143c26e8739741c037CB6E8Ad771A2B36b4a",
       "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/hor-logo-96-2.png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/pns.png"
     },
     {
-      "name": "LPT",
+      "name": "PNN",
       "protocol": "20",
-      "symbol": "LPT",
-      "address": "0xd5cbbf337b9baddc489eb088090f475ca0131a80",
+      "symbol": "PNN",
+      "address": "0x59a25CB6A4fE264d698ba9a2816C47778280aBbA",
+      "decimals": 0,
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/pns.png"
+    },
+    {
+      "name": "PG",
+      "protocol": "20",
+      "symbol": "PG",
+      "address": "0xf887086664674bde940bA47Cad139CeFeef1b5Ef",
       "decimals": 18,
-      "logoURI": "https://tp-statics.cdn.bcebos.com/website/tokenpocket-1620639847117.png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/pg1.png"
     },
     {
-      "name": "RRB",
+      "name": "PG",
       "protocol": "20",
-      "symbol": "RRB",
-      "address": "0xa8d22026119bc8a33941853614148fda61971d4d",
+      "symbol": "PG",
+      "address": "0xfA82075A6d8F85Be9146e64e0F02BaA849F8E8Fb",
       "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/rrb.jpg"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/pg2.png"
     },
     {
-      "name": "CAKE-LP",
+      "name": "OSK-DAO",
       "protocol": "20",
-      "symbol": "CAKE-LP",
-      "address": "0xc1b5ce0a8c25e8aba618f96f08d0b6c871b32a59",
+      "symbol": "OSK-DAO",
+      "address": "0xC5db5aFee4C55DfAD5F2b8226C6ac882E6956a0A",
       "decimals": 18,
-      "logoURI": "https://s3.ap-northeast-2.amazonaws.com/halo.land/logo%26banner/h%26u.png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/osk-dao.png"
     },
     {
-      "name": "TokenPocket Token",
+      "name": "w3",
       "protocol": "20",
-      "symbol": "TPT",
-      "address": "0xeca41281c24451168a37211f0bc2b8645af45092",
-      "decimals": 4,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1613793834475.png"
-    },
-    {
-      "name": "Pig Token",
-      "protocol": "20",
-      "symbol": "PIG",
-      "address": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
-      "decimals": 9,
-      "logoURI": "https://bscscan.com/token/images/pigtoken_32.png?=v2"
-    },
-    {
-      "name": "DOGGY",
-      "protocol": "20",
-      "symbol": "DOGGY",
-      "address": "0x74926b3d118a63f6958922d3dc05eb9c6e6e00c6",
+      "symbol": "w3",
+      "address": "0x7d6801E8CF716e6a06914b7106578F3beb40e51d",
       "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1620791551802.jpg"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/w3.png"
     },
     {
-      "name": "PIN",
+      "name": "FogDao Token",
       "protocol": "20",
-      "symbol": "PIN",
-      "address": "0xb86126b872e3f23bc62d6a4a3152ec65202a2073",
+      "symbol": "FOG",
+      "address": "0x079a1e0c6f1eb4912064670255d6084edce4f454",
       "decimals": 18,
-      "logoURI": "https://chainconfig.github.io/bsc/tokens/pinlogo.jpeg"
+      "logoURI": null
     },
     {
-      "name": "Ethereum Token\n",
+      "name": "MetaPoint",
       "protocol": "20",
-      "symbol": "ETH",
-      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "symbol": "POT",
+      "address": "0x3b5e381130673f794a5cf67fbba48688386bea86",
       "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616397965901.png"
-    },
-    {
-      "name": "Polkadot Token\n",
-      "protocol": "20",
-      "symbol": "DOT",
-      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
-      "decimals": 18,
-      "logoURI": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1616397751349.png"
-    },
-    {
-      "name": "MDX",
-      "protocol": "20",
-      "symbol": "MDX",
-      "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
-      "decimals": 18,
-      "logoURI": "https://tp-statics.cdn.bcebos.com/website/tokenpocket-1617871648325.png"
-    },
-    {
-      "name": "NAR",
-      "protocol": "20",
-      "symbol": "NAR",
-      "address": "0x777acbc3b6e9b22019980c5f41f9e04cd51a4a4b",
-      "decimals": 18,
-      "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/nar.jpg"
-    },
-    {
-      "name": "HBG",
-      "protocol": "20",
-      "symbol": "HBG",
-      "address": "0xe64fd924909d2a441a85d82b633a4cc3c86e0f20",
-      "decimals": 18,
-      "logoURI": "https://zeedlogo.s3.ap-east-1.amazonaws.com/hbg.jpg"
+      "logoURI": null
     }
   ]
 }
