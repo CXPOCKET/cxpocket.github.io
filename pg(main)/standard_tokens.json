@@ -40,15 +40,15 @@
       "symbol": "W3B",
       "address": "0xe28489df1c10465934Ac9FDF755a6cDF86cC1559",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3B.png"
     },
     {
-      "name": "W3w",
+      "name": "W3W",
       "protocol": "20",
-      "symbol": "W3w",
+      "symbol": "W3W",
       "address": "0x5AbD5f6Bbe0B48E9179F6307eAea032d998B4a7e",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3W.png"
     },
     {
       "name": "PNN",
