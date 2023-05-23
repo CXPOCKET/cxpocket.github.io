@@ -8,7 +8,7 @@
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/usdt.png"
+      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/usdt.png"
     },
     {
       "name": "PG",
@@ -16,7 +16,7 @@
       "symbol": "PG",
       "address": "0x7bb8bb3e4f3f8c40d4ab3ba07622453c8d8cc949",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/pg3.png"
+      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/pg3.png"
     },
     {
       "name": "OSKDAO",
@@ -24,7 +24,7 @@
       "symbol": "OSKDAO",
       "address": "0x8555af519D6E98612EA22179213C60fD6cbbd7ca",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/oskdao.png"
+      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/oskdao.png"
     },
     {
       "name": "W3",
@@ -40,7 +40,7 @@
       "symbol": "PNS",
       "address": "0x815c143c26e8739741c037CB6E8Ad771A2B36b4a",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/pns.png"
+      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/pns.png"
     },
     {
       "name": "PNN",
@@ -56,7 +56,7 @@
       "symbol": "PG",
       "address": "0xf887086664674bde940bA47Cad139CeFeef1b5Ef",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/pg1.png"
+      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/pg1.png"
     },
     {
       "name": "PG",
@@ -64,7 +64,7 @@
       "symbol": "PG",
       "address": "0xfA82075A6d8F85Be9146e64e0F02BaA849F8E8Fb",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/pg2.png"
+      "logoURI": "https://static.w3wallet.link/bsc/pg/dapplogo/pg2.png"
     },
     {
       "name": "OSK-DAO",
@@ -72,7 +72,7 @@
       "symbol": "OSK-DAO",
       "address": "0xC5db5aFee4C55DfAD5F2b8226C6ac882E6956a0A",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/osk-dao.png"
+      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/osk-dao.png"
     },
     {
       "name": "w3",
@@ -80,7 +80,7 @@
       "symbol": "w3",
       "address": "0x7d6801E8CF716e6a06914b7106578F3beb40e51d",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/dapplogo/w3.png"
+      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/w3.png"
     },
     {
       "name": "FogDao Token",
@@ -88,7 +88,7 @@
       "symbol": "FOG",
       "address": "0x079a1e0c6f1eb4912064670255d6084edce4f454",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": ""
     },
     {
       "name": "MetaPoint",
@@ -96,7 +96,7 @@
       "symbol": "POT",
       "address": "0x3b5e381130673f794a5cf67fbba48688386bea86",
       "decimals": 18,
-      "logoURI": null
+      "logoURI": ""
     }
   ]
 }
