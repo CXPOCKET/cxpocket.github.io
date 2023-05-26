@@ -1,6 +1,6 @@
 {
-	"version": "1.0.5",
-	"content": "1.新增PEGO主网，并作为钱包默认网络.\n2.修复精度为0的代币支持。",
+	"version": "1.0.6",
+	"content": "1.修复了精度为0的代币授权功能。",
 	"url": "",
 	"downloadPageUrl":"https://w3wallet.link/"
 }
