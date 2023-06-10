@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": " https://curve.fi",
+ "description": "DeFi platform offering yield farming strategies, lending aggregation, and insurance.",
+ "explorer": "https://etherscan.io/token/0xd533a949740bb3306d119cc777fa900ba034cd52",
+ "type": "ERC20",
+ "symbol": "CRV",
+ "decimals": 18,
+ "status": "active",
+ "id": "36666"
+}
