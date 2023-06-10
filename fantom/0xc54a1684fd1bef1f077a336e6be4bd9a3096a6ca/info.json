@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://2omb.finance/",
+ "description":"2omb.finance is an incentive-oriented, high yield algorithmic stablecoin protocol that utilizes seigniorage mechanisms to bring $2OMB to a 1:1 price peg with Fantom.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "2SHARES",
+ "decimals": 18,
+ "status": "active",
+ "id": "650652"
+}
