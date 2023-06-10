@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://tomb.finance/",
+ "description": "TOMB Shares (TSHARE) are one of the ways to measure the value of the TOMB Protocol and shareholder trust in its ability to maintain TOMB close to peg. During epoch expansions the protocol mints TOMB and distributes it proportionally to all TSHARE holders who have staked their tokens in the Masonry (boardroom). TSHARE holders have voting rights (governance) on proposals to improve the protocol and future use cases within the Tomb finance ecosystem.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "TSHARE",
+ "decimals": 6,
+ "status": "active",
+ "id": "70000"
+}
