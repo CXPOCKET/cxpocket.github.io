@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://www.yfbtc.net/",
+ "description": "YFBitcoin is a fully DeFi yield farming project with a smart contract audited by Certik. YFBitcoin has no founder, no VC & is one of the few projects that supports both Bitcoin and Ethereum by providing a venue for both of these to do yield farming through YFBTC.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "FBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": ""
+}
