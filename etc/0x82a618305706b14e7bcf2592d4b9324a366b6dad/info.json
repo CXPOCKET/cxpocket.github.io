@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts#address-tabs",
+ "description":"WETC is a wrapped version of Ethereum Classic",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "WETC",
+ "decimals": 18,
+ "status": "active",
+ "id": "210700000"
+}
