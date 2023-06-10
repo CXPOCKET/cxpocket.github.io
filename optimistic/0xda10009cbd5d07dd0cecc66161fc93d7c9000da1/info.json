@@ -5,7 +5,7 @@
  "explorer": "",
  "type": "ERC20",
  "symbol": "DAI",
- "decimals": 6,
+ "decimals": 18,
  "status": "active",
  "id": "4767956436.08"
 }
