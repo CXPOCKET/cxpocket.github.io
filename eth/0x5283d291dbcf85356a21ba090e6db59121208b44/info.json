@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://blur.io/",
+ "description": "BLUR is the native governance token of Blur, a unique non-fungible token (NFT) marketplace and aggregator platform that offers advanced features such as real-time price feeds, portfolio management and multi-marketplace NFT comparisons. It claims to have faster NFT sweeps, and a more intuitive interface than other comparable platforms.",
+ "explorer": "https://etherscan.io/token/0x5283d291dbcf85356a21ba090e6db59121208b44",
+ "type": "ERC20",
+ "symbol": "BLUR",
+ "decimals": 18,
+ "status": "active",
+ "id": "3000000000"
+}
