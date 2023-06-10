@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://uniswap.org",
+ "description": "Uniswap is the first automated market-making protocol built on the Ethereum blockchain, establishing a trustless and highly decentralized financial infrastructure. Uniswap is a protocol based on Ethereum that aims to facilitate automatic exchange transactions between ETH and ERC20 digital assets (supports any ERC20 trading pair after the release of V2).",
+ "explorer": "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+ "type": "ERC20",
+ "symbol": "UNI",
+ "decimals": 18,
+ "status": "active",
+ "id": "1000000000"
+}
