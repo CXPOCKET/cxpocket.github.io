@@ -1,0 +1,15 @@
+{
+ "name": "",
+ "website": "https://mdex.co/",
+ "description": "MDEX is a new decentralized trading protocol that launched in January 2021.
+
+MDEX is an automated market making (AMM) decentralized exchange protocol that operates on the concept of fund pools, sharing some similarities with standard DEXs, but differentiating itself from competitors by using a dual-chain model modeled on both the Ethereum network and the Huobi Ecological Chain (HECO), which gives it access to the liquidity of the Ethereum ecosystem.
+
+A trading platform built on top of HECO, MDEX has an estimated cost for token swaps at $0.001 for each trade, with a transaction speed of three seconds.",
+ "explorer": "",
+ "type": "HRC20",
+ "symbol": "MDX",
+ "decimals": 18,
+ "status": "active",
+ "id": "1060000000"
+}
