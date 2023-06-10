@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://chain.link",
+ "description": "Decentralized oracle network that enables smart contracts to securely interact with real-world data and external APIs.",
+ "explorer": "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+ "type": "ERC20",
+ "symbol": "LINK",
+ "decimals": 18,
+ "status": "active",
+ "id": "1000000000"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://yearn.finance",
+ "description": "DeFi platform offering yield farming strategies, lending aggregation, and insurance.",
+ "explorer": "https://etherscan.io/token/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+ "type": "ERC20",
+ "symbol": "YFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "36666"
+}

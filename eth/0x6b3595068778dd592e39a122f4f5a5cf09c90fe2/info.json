@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://sushiswap.fi",
+ "description": "Decentralized exchange built on Ethereum, offering yield farming and staking rewards.",
+ "explorer": "https://etherscan.io/token/0x025b66Da9b2fcD96B947e465E7b975D9182322C7",
+ "type": "ERC20",
+ "symbol": "SUSHI",
+ "decimals": 18,
+ "status": "active",
+ "id": ""
+}

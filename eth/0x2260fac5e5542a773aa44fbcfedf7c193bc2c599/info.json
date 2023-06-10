@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://wbtc.network",
+ "description": "WBTC (Wrapped Bitcoin) is an ERC20 token pegged to Bitcoin, jointly launched by blockchain projects such as BitGo, Kyber Network, and Ren. This token is issued on Ethereum, achieving a 1:1 peg with Bitcoin. Every issued WBTC is backed by Bitcoin, and each Bitcoin stored by the custodian corresponds to the total number of WBTC issued, which can be verified on-chain. Custodians can mint WBTC only with merchants' approval, and WBTC will be burned when holders exchange it for Bitcoin.",
+ "explorer": "https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+ "type": "ERC20",
+ "symbol": "WBTC",
+ "decimals": 8,
+ "status": "active",
+ "id": ""
+}
