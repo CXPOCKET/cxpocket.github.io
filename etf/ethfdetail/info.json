@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://etherfair.org/",
+ "description": "Ethereum fork and keep PoW, anyone can participate without restrictions.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "ETHF",
+ "decimals": 18,
+ "status": "active",
+ "id": "210000000"
+}
