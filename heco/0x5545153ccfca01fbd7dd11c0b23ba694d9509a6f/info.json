@@ -1,10 +1,10 @@
 {
  "name": "",
- "website": "https://www.hbtc.finance/en-us/",
- "description"Launched by Huobi Blockchain Team, HBTC is described to be a standard ERC20 token backed by 100% BTC. While maintaining the equivalent value as Bitcoin, it also has the flexibility of Ethereum. As a bridge between the centralized market and the DeFi market, HBTC claims to enable users to participate in DeFi market conveniently and seamlessly using Bitcoin, providing high quality assets to the DeFi market.",
+ "website": "https://www.hecochain.com/en-us/",
+ "description":"The live Wrapped Huobi Token price today is $2.85 USD with a 24-hour trading volume of $22,704.67 USD. We update our WHT to USD price in real-time. Wrapped Huobi Token is down 0.06% in the last 24 hours. The current CoinMarketCap ranking is #4526, with a live market cap of not available. The circulating supply is not available and the max. supply is not available.",
  "explorer": "",
  "type": "HRC20",
- "symbol": "HBTC",
+ "symbol": "WHT",
  "decimals": 18,
  "status": "active",
  "id": ""
