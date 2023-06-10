@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "http://www.stcoins.com/",
+ "description": "HUSD is a secure, reliable, and fiat-collateralized stablecoin. It combines the stability of the US dollar and the efficiency of blockchain technology. Additionally, it provides holders with a tool to reduce volatility when trading in the cryptocurrency market. When designing the project, the development team focused on security, liquidity and convenience. HUSD was created to provide price stability to attract a serious crypto trading audience and simplify interactions with global markets.",
+ "explorer": "",
+ "type": "HRC20",
+ "symbol": "HUSD",
+ "decimals": 8,
+ "status": "active",
+ "id": "222593861.49"
+}

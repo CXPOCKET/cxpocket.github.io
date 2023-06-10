@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://www.hbtc.finance/en-us/",
+ "description": "Launched by Huobi Blockchain Team, HBTC is described to be a standard ERC20 token backed by 100% BTC. While maintaining the equivalent value as Bitcoin, it also has the flexibility of Ethereum. As a bridge between the centralized market and the DeFi market, HBTC claims to enable users to participate in DeFi market conveniently and seamlessly using Bitcoin, providing high quality assets to the DeFi market.",
+ "explorer": "",
+ "type": "HRC20",
+ "symbol": "HBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": ""
+}
