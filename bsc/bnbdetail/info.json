@@ -1,0 +1,12 @@
+{
+ "name": "BNB Chain",
+ "website": "https://bnbchain.org/en",
+ "description": "Binance, launched in July 2017, is the world's largest cryptocurrency exchange based on daily trading volume. Binance's goal is to push cryptocurrency trading to the forefront of global financial activities. The idea behind the name Binance is to demonstrate this new paradigm of global finance — binary finance, or Binance.
+In addition to being the world's largest cryptocurrency exchange, Binance has also launched a full suite of functional ecosystems for its users. The Binance network includes Binance Chain, Binance Smart Chain, Binance Academy, Trust Wallet, and research projects, all of which harness the power of blockchain technology to bring new era financial services to the world. BNB is a crucial part of many successful Binance sub-projects.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "BNB",
+ "decimals": 18,
+ "status": "active",
+ "id": "200000000"
+}
