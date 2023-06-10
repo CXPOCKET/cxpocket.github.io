@@ -1,7 +1,7 @@
 {
  "name": "",
  "website": "WETH",
- "description": "WETH is another form of "wrapped" ETH, pegged to ETH.",
+ "description": "WETH is another form of ‘wrapped’ ETH, pegged to ETH.",
  "explorer": "",
  "type": "ERC20",
  "symbol": "WETH",
