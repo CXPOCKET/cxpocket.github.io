@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://tether.to",
+ "description": "USDT is a token named Tether USD launched by Tether Ltd, pegged to the stable currency US dollar (USD), with 1 USDT equaling 1 dollar. Users can convert USDT to USD 1:1 at any time. Tether strictly adheres to a 1:1 reserve guarantee, i.e., for every USDT token issued, there is a corresponding dollar in their bank account. Users can verify funds on the Tether platform to ensure transparency. Users can wire US dollars to the bank account provided by Tether via SWIFT, or exchange USDT on exchanges. The process is reversed when redeeming US dollars. Users can also exchange Bitcoin for USDT on trading platforms.",
+ "explorer": "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+ "type": "ERC20",
+ "symbol": "USDT",
+ "decimals": 6,
+ "status": "active",
+ "id": "86086529362.38"
+}
