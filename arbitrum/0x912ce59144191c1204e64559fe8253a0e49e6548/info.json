@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "ARB",
+ "description": "Arbitrum is a Layer 2 (L2) scaling solution for Ethereum. The protocol uses optimistic rollups to enhance Ethereum's speed, scalability, and cost-effectiveness. Arbitrum benefits from Ethereum's security and compatibility. Another advantage is a higher transaction throughput and lower fees than Ethereum. This is achieved by offloading most computational and storage workload off-chain.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "ARB",
+ "decimals": 18,
+ "status": "active",
+ "id": "10000000000"
+}
