@@ -1,11 +1,11 @@
 {
  "name": "",
  "website": "",
- "description"",
+ "description":"",
  "explorer": "",
  "type": "ERC20",
  "symbol": "USDT",
- "decimals": 18,
+ "decimals": 6,
  "status": "active",
  "id": "86086529362"
 }
