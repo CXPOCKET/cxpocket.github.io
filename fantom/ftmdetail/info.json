@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://fantom.foundation/",
+ "description": "Fantom is a directed acyclic graph (DAG) smart contract platform providing decentralized finance (DeFi) services to developers using its own bespoke consensus algorithm.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "FTM",
+ "decimals": 18,
+ "status": "active",
+ "id": "3175000000"
+}
