@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://stargate.finance/",
+ "description": "Stargate Finance (STG) is an omnichain-native asset bridge designed to solve the blockchain trilemma, which says that no blockchain can be decentralized, secure, and fast simultaneously. It does this by simplifying cross-chain DeFi transactions, which lets users transfer and swap their assets between different blockchains, layer-2 networks, and decentralized applications (dApps) almost instantly.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "STG",
+ "decimals": 18,
+ "status": "active",
+ "id": ""
+}
