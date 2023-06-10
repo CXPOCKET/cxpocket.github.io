@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://ethereumclassic.org/",
+ "description": "Ethereum Classic (ETC) is a hard fork of Ethereum (ETH) that launched in July 2016. Its main function is as a smart contract network, with the ability to host and support decentralized applications (DApps). Its native token is ETC.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "ETC",
+ "decimals": 18,
+ "status": "active",
+ "id": "210700000"
+}
