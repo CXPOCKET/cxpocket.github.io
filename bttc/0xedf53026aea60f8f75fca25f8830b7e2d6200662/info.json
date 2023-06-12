@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://tron.network/",
+ "description":"Tron (TRX) was founded by Justin Sun in 2017 through the Tron Foundation, which is headquartered in Singapore. In 2017, the Tron Foundation's Initial Coin Offering (ICO) created 100 billion TRX tokens, raising a total of 70 million dollars.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "TRX",
+ "decimals": 6,
+ "status": "active",
+ "id": "90138934218.5"
+}
