@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://bepro.network/",
+ "description": "BEPRO Network is a code-as-a-service protocol with its own codebase for Gaming, DeFi & more",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "BEPRO",
+ "decimals": 18,
+ "status": "active",
+ "id": "10000000000"
+}
