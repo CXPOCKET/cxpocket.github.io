@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "http://gnosischain.com/",
+ "description": "xDAI is created 1:1 with Ethereum’s DAI token and bridged to the Gnosis Chain. xDAI is a stablecoin that aims to have a $1 price peg and is primarily used as a transaction payment token. The benefit of using xDAI on the Gnosis Chain instead of DAI on Ethereum is that transaction fee are significantly lower.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "xDAI",
+ "decimals": 18,
+ "status": "active",
+ "id": ""
+}
