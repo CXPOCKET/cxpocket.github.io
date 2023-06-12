@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://www.avalabs.org/",
+ "description":"Avalanche is an umbrella platform for launching decentralized finance (DeFi) applications, financial assets, trading and other services.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "XAVA",
+ "decimals": 18,
+ "status": "active",
+ "id": ""
+}
