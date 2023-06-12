@@ -1,7 +1,7 @@
 { 
 "name": "",
 "website": "https://www.circle.com/usdc",
-"description": "USD Coin (USDC) is a fully collateralized stablecoin pegged to the US dollar, offering detailed financial and operational transparency. It operates within the framework of US currency circulation laws, collaborating with several banking institutions and audit teams. It is the first stablecoin open-source project initiated by Centre..",
+"description": "USD Coin (USDC) is a fully collateralized stablecoin pegged to the US dollar, offering detailed financial and operational transparency. It operates within the framework of US currency circulation laws, collaborating with several banking institutions and audit teams. It is the first stablecoin open-source project initiated by Centre.",
 "explorer": "https://bscscan.com/address/0x443701E39aa092027731EB97c01C5Bf8ea8d7b40",
 "type": "ERC20",
 "symbol": "USDC",
