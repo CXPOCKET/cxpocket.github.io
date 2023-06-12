@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://moonbeam.network/",
+ "description": "Moonbeam is an Ethereum-compatible smart contract parachain on Polkadot. Moonbeam makes it easy to use popular Ethereum developer tools to build or redeploy Solidity projects in a Substrate-based environment.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "GLMR",
+ "decimals": 18,
+ "status": "active",
+ "id": "1070822527"
+}
