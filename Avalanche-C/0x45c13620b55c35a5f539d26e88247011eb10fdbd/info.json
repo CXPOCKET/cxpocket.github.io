@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://hurricaneswap.com/",
+ "description":"HurricaneSwap is the 1st cross-chain liquidity DEX based on Avalanche. With the innovative LP-Bridge mechanism (Roke Protocol), users can trade popular assets of other chains without leaving Avalanche. And taking the advantages of Avalanche, HurricaneSwap provides users with a high-performance, low slippage, low-cost and seamless cross-chain trading experience.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "HCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "2000000000"
+}
