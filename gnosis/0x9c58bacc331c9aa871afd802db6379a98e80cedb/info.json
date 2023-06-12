@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "https://gnosis.io/",
+ "description":"Gnosis (GNO) builds decentralized infrastructure on Ethereum. Its mission has always been centered on experimentation and building decentralized infrastructure for the Ethereum ecosystem. When Gnosis was founded in 2015, it focused on building prediction markets to enable worldwide access to accurate information. While creating the prediction market platform, it became clear that Gnosis needed to build the infrastructure required to support it. Gnosis Safe, for example, was born of necessity.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "GNO",
+ "decimals": 18,
+ "status": "active",
+ "id": "3000000"
+}
