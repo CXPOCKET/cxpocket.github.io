@@ -1,0 +1,11 @@
+{
+ "name": "Huobi Token",
+ "website": "https://www.huobiwallet.com/",
+ "description": "Huobi Token (HT) is the native token of the cryptocurrency exchange Huobi Global. It is a decentralized digital asset based on the Ethereum blockchain and is ERC-20 compliant. HT’s value is in part reliant upon the reputation of the Huobi crypto exchange, yet other factors also have an impact.",
+ "explorer": "",
+ "type": "HRC20",
+ "symbol": "HT",
+ "decimals": 18,
+ "status": "active",
+ "id": "203980445"
+}
