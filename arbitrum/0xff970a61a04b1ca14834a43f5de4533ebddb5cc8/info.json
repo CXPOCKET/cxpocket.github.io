@@ -5,7 +5,7 @@
  "explorer": "",
  "type": "ERC20",
  "symbol": "USDC",
- "decimals": 18,
+ "decimals": 6,
  "status": "active",
  "id": "28659860802.21"
 }
