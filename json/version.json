@@ -1,6 +1,6 @@
 {
-	"version": "1.0.8",
-	"content": "1.部分代币详情优化；\n2.部分UI优化。",
+	"version": "1.0.9",
+	"content": "1.币种显示数量增加；\n2.部分DAPP白屏问题优化。",
 	"url": "",
 	"downloadPageUrl":"https://w3wallet.link/"
 }
