@@ -1,6 +1,6 @@
 {
 	"version": "1.0.9",
-	"isUniform":true,  //当值为true时，所有国家版本之显示content的这个值
+	"isUniform":true,  
 	"content": "1.币种显示数量增加；\n2.部分DAPP白屏问题优化。",
 	"contenten": "1.这里是英文版本；\n2.部分DAPP白屏问题优化。",
 	"contentja": "1.这里是日文版本；\n2.部分DAPP白屏问题优化。",
