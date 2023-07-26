@@ -1,6 +1,6 @@
 {
 	"version": "1.0.9",
-	"isUniform":true,  
+	"isUniform":false,
 	"content": "1.币种显示数量增加；\n2.部分DAPP白屏问题优化。",
 	"contenten": "1.这里是英文版本；\n2.部分DAPP白屏问题优化。",
 	"contentja": "1.这里是日文版本；\n2.部分DAPP白屏问题优化。",
