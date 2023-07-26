@@ -1,6 +1,12 @@
 {
 	"version": "1.0.9",
+	"isUniform":true,  //当值为true时，所有国家版本之显示content的这个值
 	"content": "1.币种显示数量增加；\n2.部分DAPP白屏问题优化。",
+	"contenten": "1.这里是英文版本；\n2.部分DAPP白屏问题优化。",
+	"contentja": "1.这里是日文版本；\n2.部分DAPP白屏问题优化。",
+	"contentko": "1.这里是韩文版本；\n2.部分DAPP白屏问题优化。",
+	"contentth": "1.这里是泰文版本；\n2.部分DAPP白屏问题优化。",
+	"contentvi": "1.这里是越南文版本；\n2.部分DAPP白屏问题优化。",
 	"url": "",
 	"downloadPageUrl":"https://w3wallet.link/"
 }
