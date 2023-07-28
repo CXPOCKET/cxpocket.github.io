@@ -1,7 +1,7 @@
 {
-	"version": "1.0.9",
-	"isUniform":false,
-	"content": "1.币种显示数量增加；\n2.部分DAPP白屏问题优化。",
+	"version": "1.1.0",
+	"isUniform":true,
+	"content": "1.增加多国际化语言；\n2.已知问题优化。",
 	"contenten": "1.The number of currencies displayed has increased;\n2. Some DAPP white screen problems have been optimized.",
 	"contentja": "1.表示される通貨の数が増加しました。\n2. DAPP の白い画面の問題の一部が最適化されました。",
 	"contentko": "1.표시된 통화 수가 증가했습니다.\n2. 일부 DAPP 흰색 화면 문제가 최적화되었습니다.",
