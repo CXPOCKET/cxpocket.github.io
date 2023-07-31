@@ -113,6 +113,14 @@
       "address": "0x74b75682c63fCcf9987461649FdA7C09dc823a8D",
       "decimals": 18,
       "logoURI": "https://static.w3wallet.link/pg(main)/pg/BNB.png"
+    },
+    {
+      "name": "W3BANK",
+      "protocol": "20",
+      "symbol": "W3K",
+      "address": "0xce721d6c56c628a5ebde4783abb9d70d2053aab9",
+      "decimals": 18,
+      "logoURI": "https://static.w3wallet.link/pg(main)/0xce721d6c56c628a5ebde4783abb9d70d2053aab9/logo.png"
     }
   ]
 }
