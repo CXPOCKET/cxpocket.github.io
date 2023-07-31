@@ -113,6 +113,14 @@
       "address": "0xD5683B68e9087A39150B113cBb5aF5e6C119A3B3",
       "decimals": 18,
       "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3FT(PG:OSKDAO) .png"
+    },
+    {
+      "name": "W3BANK",
+      "protocol": "20",
+      "symbol": "W3K",
+      "address": "0xce721d6c56c628a5ebde4783abb9d70d2053aab9",
+      "decimals": 18,
+      "logoURI": null
     }
   ]
 }
