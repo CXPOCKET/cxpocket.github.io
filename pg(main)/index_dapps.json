@@ -5,6 +5,7 @@
         "banners": [
             {
                 "image": "https://static.w3wallet.link/dappbaner/cn.png",
+                "advertise"："https://static.w3wallet.link/dappbaner/cn.png"
                 "url": "1"
             }
         ],
