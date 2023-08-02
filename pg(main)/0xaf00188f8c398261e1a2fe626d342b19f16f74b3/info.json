@@ -5,7 +5,7 @@
  "explorer": "",
  "type": "ERC20",
  "symbol": "WZGF",
- "decimals": 18,
+ "decimals": 9,
  "status": "active",
  "id": "18888"
 }
