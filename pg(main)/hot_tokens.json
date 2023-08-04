@@ -43,6 +43,14 @@
       "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3W.png"
     },
     {
+      "name": "WeDex",
+      "protocol": "20",
+      "symbol": "WEC",
+      "address": "0xfa272d391895a955021e7cc99e076efe31e9c985",
+      "decimals": 18,
+      "logoURI": "https://static.w3wallet.link/pg(main)/0xfa272d391895a955021e7cc99e076efe31e9c985/logo.png"
+      },
+    {
       "name": "PNN",
       "protocol": "20",
       "symbol": "PNN",
