@@ -32,10 +32,10 @@
                         "logo": "https://static.w3wallet.link/pg(main)/pg/W3B.png"
                     },
                     {
-                        "name": "浏览器",
+                        "name": "W3BANK",
                         "des": "",
-                        "url": "https://scan.pego.network/",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
+                        "url": "https://w3bank.finance/",
+                        "logo": "https://static.w3wallet.link/pg(main)/pg/W3BANK.png"
                     },
                     {
                         "name": "治理",
