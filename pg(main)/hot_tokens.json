@@ -129,6 +129,14 @@
       "address": "0xce721d6c56c628a5ebde4783abb9d70d2053aab9",
       "decimals": 18,
       "logoURI": "https://static.w3wallet.link/pg(main)/0xce721d6c56c628a5ebde4783abb9d70d2053aab9/logo.png"
+    },
+    {
+      "name": "Antworld",
+      "protocol": "20",
+      "symbol": "AD",
+      "address": "0xbad7179fee3f0241c9bbf04267f2968e3531322e",
+      "decimals": 18,
+      "logoURI": "https://static.w3wallet.link/pg(main)/0xbad7179fee3f0241c9bbf04267f2968e3531322e/logo.png"
     }
   ]
 }
