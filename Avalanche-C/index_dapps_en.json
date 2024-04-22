@@ -16,19 +16,19 @@
                         "name": "GMX",
                         "des": "Trade BTC, ETH, AVAX and other top cryptocurrencies with up to 50x leverage directly from your wallet",
                         "url": "https://gmx.io",
-                        "logo": "https://static.w3wallet.link/Avalanche-C/dapplogo/GMX.png"
+                        "logo": "https://athena-wallet.github.io/Avalanche-C/dapplogo/GMX.png"
                     },
                     {
                         "name": "Pangolin",
                         "des": "An Avalanche-based DEX",
                         "url": "https://app.pangolin.exchange/",
-                        "logo": "https://static.w3wallet.link/Avalanche-C/dapplogo/Pangolin.png"
+                        "logo": "https://athena-wallet.github.io/Avalanche-C/dapplogo/Pangolin.png"
                     },
                     {
                         "name": "Platypus",
                         "des": "A whole new kind of AMM for stableswap",
                         "url": "https://app.platypus.finance/",
-                        "logo": "https://static.w3wallet.link/Avalanche-C/dapplogo/Platypus.png"
+                        "logo": "https://athena-wallet.github.io/Avalanche-C/dapplogo/Platypus.png"
                     }
                 ]
             }
