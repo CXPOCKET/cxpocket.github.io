@@ -16,25 +16,25 @@
                         "name": "PancakeSwap",
                         "des": "在银河系中最受欢迎的去中心化平台上交易，赚取和赢取加密货币。",
                         "url": "https://pancakeswap.finance/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/pancakeswap.png"
+                        "logo": "https://athena-wallet.github.io/bsc/hot_dapp/pancakeswap.png"
                     },
                     {
                         "name": "BscProject",
                         "des": "BSC DeFi项目收录与分析",
                         "url": "https://bnbproject.org/#/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/BscProject.png"
+                        "logo": "https://athena-wallet.github.io/bsc/hot_dapp/BscProject.png"
                     },
                     {
                         "name": "Solo.top",
                         "des": "单币无损挖矿收益聚合平台",
                         "url": "https://solo.top/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Solo.png"
+                        "logo": "https://athena-wallet.github.io/bsc/hot_dapp/Solo.png"
                     },
                     {
                         "name": "Defibox",
                         "des": "一站式DeFi平台",
                         "url": "https://defibox.io/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/Defibox.png"
+                        "logo": "https://athena-wallet.github.io/bsc/hot_dapp/Defibox.png"
                     }
                 ]
             }
