@@ -16,25 +16,25 @@
                         "name": "Curve",
                         "des": "Creating deep on-chain liquidity using advanced bonding curves,",
                         "url": "https://curve.fi",
-                        "logo": "https://static.w3wallet.link/eth/dapplogo/curve.png"
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/curve.png"
                     },
                     {
                         "name": "Uniswap",
                         "des": "Uniswap is a DeFi protocol for exchanging cryptocurrencies. Through its smart contracts, cryptocurrency trading on the Ethereum blockchain can be facilitated automatically.",
                         "url": "https://app.uniswap.org",
-                        "logo": "https://static.w3wallet.link/eth/dapplogo/uniswap.png"
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/uniswap.png"
                     },
                     {
                         "name": "Balancer",
                         "des": "Your DeFi liquidity infrastructure.",
                         "url": "https://balancer.fi",
-                        "logo": "https://static.w3wallet.link/eth/dapplogo/balancer.png"
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/balancer.png"
                     },
                     {
                         "name": "SushiSwap",
                         "des": "A community-built open-source ecosystem of all the DeFi tools you need",
                         "url": "https://www.sushi.com/swap",
-                        "logo": "https://static.w3wallet.link/eth/dapplogo/sushiswap.png"
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/sushiswap.png"
                     }
                 ]
             }
