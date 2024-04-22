@@ -17,19 +17,19 @@
                         "name": "Defibox",
                         "des": "一站式多链DeFi应用平台",
                         "url": "https://defibox.io/",
-                        "logo": "https://static.w3wallet.link/heco/dapplogo/Defibox.png"
+                        "logo": "https://athena-wallet.github.io/heco/dapplogo/Defibox.png"
                     },
                     {
                         "name": "Solo.top",
                         "des": "单币无损挖矿收益聚合平台",
                         "url": "https://solo.top/",
-                        "logo": "https://static.w3wallet.link/heco/dapplogo/Solo.top.png"
+                        "logo": "https://athena-wallet.github.io/heco/dapplogo/Solo.top.png"
                     },
                     {
                         "name": "Mdex",
                         "des": "DeFi生态最大的集DEX、IMO、DAO为一体的平台",
                         "url": "https://ht.mdex.co/#/swap",
-                        "logo": "https://static.w3wallet.link/heco/dapplogo/Mdex.png"
+                        "logo": "https://athena-wallet.github.io/heco/dapplogo/Mdex.png"
                     }   
                 ]
             }
