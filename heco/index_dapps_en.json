@@ -16,19 +16,19 @@
                         "name": "Defibox",
                         "des": "One-stop #DeFi Application Platform on Multi-chain.",
                         "url": "https://defibox.io/",
-                        "logo": "https://static.w3wallet.link/heco/dapplogo/Defibox.png"
+                        "logo": "https://athena-wallet.github.io/heco/dapplogo/Defibox.png"
                     },
                     {
                         "name": "Solo.top",
                         "des": "Solo.top is a single-asset mining aggregator without impermanent loss.",
                         "url": "https://solo.top/",
-                        "logo": "https://static.w3wallet.link/heco/dapplogo/Solo.top.png"
+                        "logo": "https://athena-wallet.github.io/heco/dapplogo/Solo.top.png"
                     },
                     {
                         "name": "Mdex",
                         "des": "The biggest DeFi platform with DEX, IMO, and DAO.",
                         "url": "https://ht.mdex.co/#/swap",
-                        "logo": "https://static.w3wallet.link/heco/dapplogo/Mdex.png"
+                        "logo": "https://athena-wallet.github.io/heco/dapplogo/Mdex.png"
                     } 
                 ]
             }
