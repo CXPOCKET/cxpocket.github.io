@@ -16,19 +16,19 @@
                         "name": "GMX",
                         "des": "可使用钱包直接进行BTC、ETH、AVAX等主流加密货币交易，支持最高50倍杠杆",
                         "url": "https://gmx.io",
-                        "logo": "https://static.w3wallet.link/Avalanche-C/dapplogo/GMX.png"
+                        "logo": "https://athena-wallet.github.io/Avalanche-C/dapplogo/GMX.png"
                     },
                     {
                         "name": "Pangolin",
                         "des": "基于雪崩协议的DEX",
                         "url": "https://app.pangolin.exchange/",
-                        "logo": "https://static.w3wallet.link/Avalanche-C/dapplogo/Pangolin.png"
+                        "logo": "https://athena-wallet.github.io/Avalanche-C/dapplogo/Pangolin.png"
                     },
                     {
                         "name": "Platypus",
                         "des": "一个全新为稳定币兑换开发的AMM",
                         "url": "https://app.platypus.finance/",
-                        "logo": "https://static.w3wallet.link/Avalanche-C/dapplogo/Platypus.png"
+                        "logo": "https://athena-wallet.github.io/Avalanche-C/dapplogo/Platypus.png"
                     }
                 ]
             }
