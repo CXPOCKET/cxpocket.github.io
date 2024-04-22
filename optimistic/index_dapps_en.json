@@ -16,19 +16,19 @@
                         "name": "Uniswap",
                         "des": "Uniswap is a DeFi protocol for exchanging cryptocurrencies. Through its smart contracts, cryptocurrency trading on the Ethereum blockchain can be facilitated automatically.",
                         "url": "https://app.uniswap.org",
-                        "logo": "https://static.w3wallet.link/optimistic/dapplogo/Uniswap.png"
+                        "logo": "https://athena-wallet.github.io/optimistic/dapplogo/Uniswap.png"
                     },
                     {
                         "name": "Optimism Gateway",
                         "des": "Optimism is a tool for withdrawing Layer2 assets.",
                         "url": "https://gateway.optimism.io/",
-                        "logo": "https://static.w3wallet.link/optimistic/dapplogo/Optimism_Gateway.png"
+                        "logo": "https://athena-wallet.github.io/optimistic/dapplogo/Optimism_Gateway.png"
                     },
                     {
                         "name": "Optimisticscan",
                         "des": "Optimistic, an Ethereum browser.",
                         "url": "https://optimistic.etherscan.io",
-                        "logo": "https://static.w3wallet.link/optimistic/dapplogo/Optimisticscan.png"
+                        "logo": "https://athena-wallet.github.io/optimistic/dapplogo/Optimisticscan.png"
                     }
                 ]
             }
