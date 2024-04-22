@@ -8,7 +8,7 @@
       "symbol": "xDAI",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/gnosis/xdai/logo.png"
+      "logoURI": "https://athena-wallet.github.io/gnosis/xdai/logo.png"
     },
     {
       "name": "Tether USD on xDai",
