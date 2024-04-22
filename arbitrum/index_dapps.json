@@ -17,13 +17,13 @@
                         "name": "GMX",
                         "des": "可使用钱包直接进行BTC、ETH、AVAX等主流加密货币交易，支持最高50倍杠杆",
                         "url": "https://gmx.io",
-                        "logo": "https://static.w3wallet.link/arbitrum/dapplogo/GMX.png"
+                        "logo": "https://athena-wallet.github.io/arbitrum/dapplogo/GMX.png"
                     },
                     {
                         "name": "Defined",
                         "des": "数据平台Defined旨在打造开放互联网，允许用户查询链上数据，在多个区块链和DeFi协议之间交互。",
                         "url": "https://www.defined.fi/",
-                        "logo": "https://static.w3wallet.link/arbitrum/dapplogo/Defined.png"
+                        "logo": "https://athena-wallet.github.io/arbitrum/dapplogo/Defined.png"
                     }
                 ]
             }
