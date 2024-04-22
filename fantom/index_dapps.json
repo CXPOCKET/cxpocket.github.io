@@ -16,19 +16,19 @@
                         "name": "Curve",
                         "des": "基于先进联合曲线创造深度链上流动性",
                         "url": "https://curve.fi",
-                        "logo": "https://static.w3wallet.link/fantom/dapplogo/Curve.png"
+                        "logo": "https://athena-wallet.github.io/fantom/dapplogo/Curve.png"
                     },
                     {
                         "name": "Sushiswap",
                         "des": "Sushiswap由社区创建，拥有开源生态，提供你所需的所有DeFi工具。",
                         "url": "https://www.sushi.com/swap",
-                        "logo": "https://static.w3wallet.link/fantom/dapplogo/Sushiswap.png"
+                        "logo": "https://athena-wallet.github.io/fantom/dapplogo/Sushiswap.png"
                     },
                     {
                         "name": "SpookySwap",
                         "des": "基于FTM的社区驱动DEX",
                         "url": "https://spooky.fi/",
-                        "logo": "https://static.w3wallet.link/fantom/dapplogo/SpookySwap.png"
+                        "logo": "https://athena-wallet.github.io/fantom/dapplogo/SpookySwap.png"
                     }
                 ]
             }
