@@ -8,7 +8,7 @@
       "symbol": "ETH",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://athena-wallet.github.io/bsc/hot_dapp/pancakeswap.png/eth/eth/eth.png"
+      "logoURI": "https://athena-wallet.github.io/eth/eth/eth.png"
     },
     {
       "name": "Tether USD",
