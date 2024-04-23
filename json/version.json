@@ -1,6 +1,6 @@
 {
-	"version": "1.0.1",
-	"isUniform":false,
+	"version": "1.0.0",
+	"isUniform":true,
 	"content": "1. 优化页面 \n2. 增加开屏广告功能",
 	"contenten": "1. Added splash advertisement screen \n2. Improved interface and performance",
 	"contentja": "1. 多言語サポートを追加しました \n2. インターフェースとパフォーマンスの向上",
