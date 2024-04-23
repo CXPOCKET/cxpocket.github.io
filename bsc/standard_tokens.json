@@ -17,46 +17,6 @@
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "decimals": 18,
       "logoURI": "https://static.w3wallet.link/bsc/dapplogo/usdt.png"
-    },
-    {
-      "name": "PG",
-      "protocol": "20",
-      "symbol": "PG",
-      "address": "0x7bb8bb3e4f3f8c40d4ab3ba07622453c8d8cc949",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/pg3.png"
-    },
-    {
-      "name": "OSKDAO",
-      "protocol": "20",
-      "symbol": "OSKDAO",
-      "address": "0x8555af519D6E98612EA22179213C60fD6cbbd7ca",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/oskdao.png"
-    },
-    {
-      "name": "W3",
-      "protocol": "20",
-      "symbol": "W3",
-      "address": "0x9Bac79BC5a0EDe5E1a3A422f6f58Fd764bA7652F",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/w3(2).png"
-    },
-    {
-      "name": "PNS",
-      "protocol": "20",
-      "symbol": "PNS",
-      "address": "0x815c143c26e8739741c037CB6E8Ad771A2B36b4a",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/pns.png"
-    },
-    {
-      "name": "PNN",
-      "protocol": "20",
-      "symbol": "PNN",
-      "address": "0x59a25CB6A4fE264d698ba9a2816C47778280aBbA",
-      "decimals": 0,
-      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/pnn.png"
     }
   ]
 }
