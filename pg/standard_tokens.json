@@ -3,12 +3,12 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "PG",
+      "name": "PDA",
       "protocol": "20",
-      "symbol": "PG",
+      "symbol": "PDA",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg/pg/pg.jpg"
+      "logoURI": "https://athena-wallet.github.io/pg/pg/pda.png"
     }
   ]
 }
