@@ -12,12 +12,7 @@
             {
                 "type": "热门推荐",
                 "items": [
-                    {
-                        "name": "W3Swap",
-                        "des": "以颠覆式创新形式立足WEB3，打造聚合高流动性的自适应交易生态。",
-                        "url": "https://www.w3swap.finance",
-                        "logo": "https://static.w3wallet.link/pg/dapplogo/W3Swap.png"
-                    }
+
                 ]
             }
         ]
