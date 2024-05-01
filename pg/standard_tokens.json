@@ -9,6 +9,14 @@
       "address": "",
       "decimals": 18,
       "logoURI": "https://athena-wallet.github.io/pg/pg/pg/pda.png"
+    },
+    {
+      "name": "USDT",
+      "protocol": "20",
+      "symbol": "PDA",
+      "address": "0x999742508119B501a44b37Fd6631783457b0287c",
+      "decimals": 18,
+      "logoURI": ""
     }
   ]
 }
