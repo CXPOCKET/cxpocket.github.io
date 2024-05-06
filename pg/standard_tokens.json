@@ -13,10 +13,10 @@
     {
       "name": "USDT",
       "protocol": "20",
-      "symbol": "PDA",
+      "symbol": "USDT",
       "address": "0x999742508119B501a44b37Fd6631783457b0287c",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://athena-wallet.github.io/bsc/dapplogo/usdt.png"
     }
   ]
 }
