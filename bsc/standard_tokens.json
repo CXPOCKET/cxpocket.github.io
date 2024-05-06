@@ -8,7 +8,7 @@
       "symbol": "BNB",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://hashpay.gitee.io/icon/bnbtoken.jpg"
+      "logoURI": "https://athena-wallet.github.io/bsc/bnb/logo.png"
     },
     {
       "name": "Binance-Peg BSC-USD",
@@ -16,7 +16,7 @@
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/bsc/dapplogo/usdt.png"
+      "logoURI": "https://athena-wallet.github.io/bsc/dapplogo/usdt.png"
     }
   ]
 }
