@@ -1,26 +1,20 @@
 {
-    "errorCode": 0,
-    "reason": "获取成功",
-    "data": {
-        "banners": [
-            "zh":[
-                {
-                "image": "https://athena-wallet.github.io/dappbaner/cn.png",
-                "url": "1"
-                }
-                ] ,
-          "zh_Hant":[
-                {
-                "image": "https://athena-wallet.github.io/dappbaner/cn.png",
-                "url": "1"
-                }
-                    ] ,
-          "en":[
-                {
-                "image": "https://athena-wallet.github.io/dappbaner/cn.png",
-                "url": "1"
-                }
-              ] 
-        ]
-    }
+	"errorCode": 0,
+	"reason": "获取成功",
+	"data": {
+		"banners": {
+			"zh": [{
+				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
+				"url": "1"
+			}],
+			"zh_Hant": [{
+				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
+				"url": "1"
+			}],
+			"en": [{
+				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
+				"url": "1"
+			}]
+		}
+	}
 }
