@@ -3,30 +3,27 @@
     "reason": "获取成功",
     "data": {
         "banners": [
-            "zh":{
+            "zh":
               [
                 {
                 "image": "https://athena-wallet.github.io/dappbaner/cn.png",
                 "url": "1"
                 }
-              ]
-            },
-          "zh_Hant":{
+              ] ,
+          "zh_Hant":
               [
                 {
                 "image": "https://athena-wallet.github.io/dappbaner/cn.png",
                 "url": "1"
                 }
-              ]
-            },
-          "en":{
+              ] ,
+          "en":
               [
                 {
                 "image": "https://athena-wallet.github.io/dappbaner/cn.png",
                 "url": "1"
                 }
-              ]
-            }
+              ] 
         ]
     }
 }
