@@ -12,7 +12,19 @@
 				"url": "1"
 			}],
 			"en": [{
-				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
+				"image": "https://athena-wallet.github.io/dappbaner/en.png",
+				"url": "1"
+			}],
+			"ja": [{
+				"image": "https://athena-wallet.github.io/dappbaner/ja.png",
+				"url": "1"
+			}],
+			"ko": [{
+				"image": "https://athena-wallet.github.io/dappbaner/ko.png",
+				"url": "1"
+			}],
+			"ru": [{
+				"image": "https://athena-wallet.github.io/dappbaner/ru.png",
 				"url": "1"
 			}]
 		}
