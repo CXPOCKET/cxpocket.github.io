@@ -26,6 +26,30 @@
 			"ru": [{
 				"image": "https://athena-wallet.github.io/dappbaner/ru.png",
 				"url": "1"
+			}],
+			"ar": [{
+				"image": "https://athena-wallet.github.io/dappbaner/ar.png",
+				"url": "1"
+			}],
+			"de": [{
+				"image": "https://athena-wallet.github.io/dappbaner/de.png",
+				"url": "1"
+			}],
+			"fr": [{
+				"image": "https://athena-wallet.github.io/dappbaner/fr.png",
+				"url": "1"
+			}],
+			"hi": [{
+				"image": "https://athena-wallet.github.io/dappbaner/hi.png",
+				"url": "1"
+			}],
+			"id": [{
+				"image": "https://athena-wallet.github.io/dappbaner/id.png",
+				"url": "1"
+			}],
+			"vi": [{
+				"image": "https://athena-wallet.github.io/dappbaner/vi.png",
+				"url": "1"
 			}]
 		}
 	}
