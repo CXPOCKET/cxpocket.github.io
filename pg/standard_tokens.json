@@ -11,12 +11,12 @@
       "logoURI": "https://athena-wallet.github.io/pg/pg/pg/pda.png"
     },
     {
-      "name": "USDT",
+      "name": "ZEUS",
       "protocol": "20",
-      "symbol": "USDT",
-      "address": "0x999742508119B501a44b37Fd6631783457b0287c",
+      "symbol": "ZEUS",
+      "address": "0xcAfEDA13f42B44e6E4A7B1fd9A79dee948868Fe7",
       "decimals": 18,
-      "logoURI": "https://athena-wallet.github.io/bsc/dapplogo/usdt.png"
+      "logoURI": ""
     }
   ]
 }
