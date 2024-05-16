@@ -1,5 +1,14 @@
 {
   "errorCode": 0,
   "reason": "获取成功",
-  "data": []
+  "data": [
+    {
+      "name": "ZEUS",
+      "protocol": "20",
+      "symbol": "ZEUS",
+      "address": "0xcAfEDA13f42B44e6E4A7B1fd9A79dee948868Fe7",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
 }
