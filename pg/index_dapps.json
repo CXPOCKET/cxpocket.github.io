@@ -13,6 +13,36 @@
                 "type": "热门推荐",
                 "items": [
                     {
+                        "name": "Curve基于先进联合曲线",
+                        "des": "基于先进联合曲线创造深度链上流动性",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/curve.png"
+                    },
+                    {
+                        "name": "Uniswap",
+                        "des": "Uniswap是一种用于交换加密货币的分散金融协议，该协议通过使用只能合约促进以太坊区块链上的加密货币令牌之间的自动化交易。",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/uniswap.png"
+                    },
+                    {
+                        "name": "Balancer",
+                        "des": "你的DeFi流动性基础设施。",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/balancer.png"
+                    },
+                    {
+                        "name": "SushiSwapceshishihsiwhihsi",
+                        "des": "SushiSwap协议通过在流行的AMM模型中引入收入分享和论坛驱动的网络努力，重新调整了网络参与者的激励",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/sushiswap.png"
+                    },
+                    {
+                        "name": "SushiTest",
+                        "des": "SushiSwap协议通过在流行的AMM模型中引入收入分享和论坛驱动的网络努力，重新调整了网络参与者的激励",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/sushiswap.png"
+                    },
+                    {
                         "name": "Curve",
                         "des": "基于先进联合曲线创造深度链上流动性",
                         "url": "",
@@ -31,7 +61,7 @@
                         "logo": "https://athena-wallet.github.io/eth/dapplogo/balancer.png"
                     },
                     {
-                        "name": "SushiSwap",
+                        "name": "SushiSwapceshishihsiwhihsi",
                         "des": "SushiSwap协议通过在流行的AMM模型中引入收入分享和论坛驱动的网络努力，重新调整了网络参与者的激励",
                         "url": "",
                         "logo": "https://athena-wallet.github.io/eth/dapplogo/sushiswap.png"
