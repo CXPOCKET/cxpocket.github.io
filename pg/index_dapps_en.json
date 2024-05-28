@@ -13,6 +13,42 @@
             {
                 "type": "热门推荐",
                 "items": [
+                    {
+                        "name": "Pandora",
+                        "des": "",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/pandora.png"
+                    },
+                    {
+                        "name": "Zeus",
+                        "des": "",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/zeus.png"
+                    },
+                    {
+                        "name": "Community",
+                        "des": "",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/community.png"
+                    },
+                    {
+                        "name": "Social",
+                        "des": "",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/social.png"
+                    },
+                    {
+                        "name": "Consult",
+                        "des": "",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/consult.png"
+                    },
+                    {
+                        "name": "Mining Pool",
+                        "des": "",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/mining.png"
+                    }
                 ]
             }
         ]
