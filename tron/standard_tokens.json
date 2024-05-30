@@ -1,0 +1,22 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "MATIC",
+      "protocol": "20",
+      "symbol": "MATIC",
+      "address": "",
+      "decimals": 6,
+      "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/explorer/tokens/matic.png"
+    },
+    {
+      "name": "(PoS) Tether USD",
+      "protocol": "20",
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "decimals": 6,
+      "logoURI": null
+    },
+  ]
+}
