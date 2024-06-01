@@ -16,7 +16,79 @@
                         "name": "Uniswap v2",
                         "des": "Uniswap是一种用于交换加密货币的分散金融协议，该协议通过使用只能合约促进以太坊区块链上的加密货币令牌之间的自动化交易。",
                         "url": "https://app.uniswap.org",
-                        "logo": "https://athena-wallet.github.io/eth/dapplogo/uniswap.png"
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/uniswap_v2.png"
+                    },
+                    {
+                        "name": "Stakeland",
+                        "des": "",
+                        "url": "https://www.stakeland.com",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/stakeland.png"
+                    },
+                    {
+                        "name": "Stargate.finance",
+                        "des": "",
+                        "url": "https://stargate.finance/?utm_source=BitgetWallet",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/stargate.finance.png"
+                    },
+                    {
+                        "name": "Xmeta",
+                        "des": "",
+                        "url": "https://crazylizardarmy.com",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/xmeta.png"
+                    },
+                    {
+                        "name": "Portal bridge",
+                        "des": "",
+                        "url": "https://portalbridge.com",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/portal_bridge.png"
+                    },
+                    {
+                        "name": "Summer.fi",
+                        "des": "",
+                        "url": "https://summer.fi",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/summer.fi.png"
+                    },
+                    {
+                        "name": "Risk harbor",
+                        "des": "",
+                        "url": "https://subseaprotocol.com",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/risk_harbor.png"
+                    },
+                    {
+                        "name": "Pinksale",
+                        "des": "",
+                        "url": "https://www.pinksale.finance",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/pinksale.png"
+                    },
+                    {
+                        "name": "Mdex",
+                        "des": "",
+                        "url": "https://mdex.co/",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/mdex.png"
+                    },
+                    {
+                        "name": "Blur",
+                        "des": "",
+                        "url": "https://blur.io",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/blur.png"
+                    },
+                    {
+                        "name": "Manifold",
+                        "des": "",
+                        "url": "https://studio.manifold.xyz",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/manifold.png"
+                    },
+                    {
+                        "name": "Dmail",
+                        "des": "",
+                        "url": "https://mail.dmail.ai",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/dmail.png"
+                    },
+                    {
+                        "name": "Invite2 get",
+                        "des": "",
+                        "url": "https://share.keepshare.info/zh-CN/tools/inviteFriend?_needChain=eth",
+                        "logo": "https://athena-wallet.github.io/eth/dapplogo/invite2_get.png"
                     },
                     {
                         "name": "Curve",
