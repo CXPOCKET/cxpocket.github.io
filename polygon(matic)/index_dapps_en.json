@@ -14,21 +14,33 @@
                 "items": [
                     {
                         "name": "Pancakeswap",
-                        "des": "Pancakeswap is an advanced decentralized platform built on BSC for users to trade, earn, and win cryptocurrencies freely.",
+                        "des": "PancakeSwap 是币安智能链上领先的去中心化平台，可以随意的进行交易、赚取和赢取加密货币。",
                         "url": "https://pancakeswap.finance/",
                         "logo": "https://athena-wallet.github.io/polygon(matic)/dapplogo/Pancakeswap.png"
                     },
                     {
                         "name": "Uniswap",
-                        "des": "Uniswap is a DeFi protocol for exchanging cryptocurrencies. Through its smart contracts, cryptocurrency trading on the Ethereum blockchain can be facilitated automatically.",
+                        "des": "Uniswap是一种用于交换加密货币的分散金融协议，该协议通过使用只能合约促进以太坊区块链上的加密货币令牌之间的自动化交易。",
                         "url": "https://app.uniswap.org",
                         "logo": "https://athena-wallet.github.io/eth/dapplogo/uniswap.png"
                     },
                     {
                         "name": "MMF",
-                        "des": "An innovative application on Polygon",
+                        "des": "Polygon上的创新性应用",
                         "url": "https://polymm.finance/",
                         "logo": "https://athena-wallet.github.io/polygon(matic)/dapplogo/MMF.png"
+                    },
+                    {
+                        "name": "Meanfi",
+                        "des": "",
+                        "url": "https://app.balmy.xyz/",
+                        "logo": "https://athena-wallet.github.io/polygon(matic)/dapplogo/meanfi.png"
+                    },
+                    {
+                        "name": "Planetix",
+                        "des": "",
+                        "url": "https://missioncontrol.planetix.com/logout?origin=%252Fterminal",
+                        "logo": "https://athena-wallet.github.io/polygon(matic)/dapplogo/planetix.png"
                     }
                 ]
             }
