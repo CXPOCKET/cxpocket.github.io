@@ -29,6 +29,18 @@
                         "des": "Polygon上的创新性应用",
                         "url": "https://polymm.finance/",
                         "logo": "https://athena-wallet.github.io/polygon(matic)/dapplogo/MMF.png"
+                    },
+                    {
+                        "name": "Meanfi",
+                        "des": "",
+                        "url": "https://app.balmy.xyz/",
+                        "logo": "https://athena-wallet.github.io/polygon(matic)/dapplogo/meanfi.png"
+                    },
+                    {
+                        "name": "Planetix",
+                        "des": "",
+                        "url": "https://missioncontrol.planetix.com/logout?origin=%252Fterminal",
+                        "logo": "https://athena-wallet.github.io/polygon(matic)/dapplogo/planetix.png"
                     }
                 ]
             }
