@@ -9,11 +9,11 @@
 				"url": "1"
 				},
 				{
-				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
+				"image": "https://athena-wallet.github.io/dappbaner/zh_2.png",
 				"url": "2"
 				},
 				{
-				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
+				"image": "https://athena-wallet.github.io/dappbaner/zh_3.png",
 				"url": "3"
 				}
 			      ],
@@ -21,10 +21,20 @@
 				"image": "https://athena-wallet.github.io/dappbaner/zh_Hant.png",
 				"url": "1"
 			}],
-			"en": [{
+			"en": [
+				{
 				"image": "https://athena-wallet.github.io/dappbaner/en.png",
 				"url": "1"
-			}],
+				},
+				{
+				"image": "https://athena-wallet.github.io/dappbaner/en_2.png",
+				"url": "2"
+				},
+				{
+				"image": "https://athena-wallet.github.io/dappbaner/en_3.png",
+				"url": "3"
+				}
+			       ],
 			"ja": [{
 				"image": "https://athena-wallet.github.io/dappbaner/ja.png",
 				"url": "1"
