@@ -33,25 +33,31 @@
                         "logo": "https://athena-wallet.github.io/pg/dapplogo/zeus.png"
                     },
                     {
-                        "name": "Community",
+                        "name": "社区",
                         "des": "",
                         "url": "",
                         "logo": "https://athena-wallet.github.io/pg/dapplogo/community.png"
                     },
                     {
-                        "name": "Social",
+                        "name": "社区热点",
+                        "des": "",
+                        "url": "https://athenawallet.gitbook.io/she-qu-re-dian/",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/hotspots.jpg"
+                    },
+                    {
+                        "name": "社交",
                         "des": "",
                         "url": "",
                         "logo": "https://athena-wallet.github.io/pg/dapplogo/social.png"
                     },
                     {
-                        "name": "Consult",
+                        "name": "咨询",
                         "des": "",
                         "url": "",
                         "logo": "https://athena-wallet.github.io/pg/dapplogo/consult.png"
                     },
                     {
-                        "name": "Mining Pool",
+                        "name": "矿池",
                         "des": "",
                         "url": "",
                         "logo": "https://athena-wallet.github.io/pg/dapplogo/mining.png"
