@@ -32,6 +32,12 @@
                         "logo": "https://athena-wallet.github.io/pg/dapplogo/community.png"
                     },
                     {
+                        "name": "NEWS",
+                        "des": "",
+                        "url": "https://athenawallet.gitbook.io/copy-of-she-qu-re-dian/",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/hotspots.jpg"
+                    },
+                    {
                         "name": "Social",
                         "des": "",
                         "url": "",
