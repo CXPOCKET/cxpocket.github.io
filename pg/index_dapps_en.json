@@ -52,7 +52,7 @@
                     {
                         "name": "Mining Pool",
                         "des": "",
-                        "url": "https://pool.pdachain.io",
+                        "url": "https://pool.pdachain.io?language=en",
                         "logo": "https://athena-wallet.github.io/pg/dapplogo/mining.png"
                     }
                 ]
