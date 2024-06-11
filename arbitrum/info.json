@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "website": "ETH",
+ "description": "Ethereum is a decentralized open-source blockchain system that has its own native cryptocurrency, Ether. Ethereum is also a platform for many other cryptocurrencies, while it also executes decentralized smart contracts.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "ETH",
+ "decimals": 18,
+ "status": "active",
+ "id": "120231504.97"
+}
