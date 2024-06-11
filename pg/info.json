@@ -1,0 +1,13 @@
+{
+ "name": "PDA",
+ "website": "PDA",
+ "description": "Pandora Chain is an innovative Layer 1 public blockchain, born for complex computations. It addresses the bottlenecks in the public blockchain domain with its innovation, high scalability, and efficiency. At its core, Pandora Chain provides a dual-engine smart contract technology capable of Turing-complete computations, compatible with PVM (Pandora Virtual Machine) and EVM (Ethereum Virtual Machine), creating a more fluid cross-platform working environment. This supports large-scale and complex computations and resolves trust issues in distributed systems through its unique consensus mechanism, PDpos (Pandora Delegated Proof of Stake), and the Practical Byzantine Fault Tolerance algorithm. It offers a more developer-friendly environment for application developers.
+Pandora Chain marks the advent of a freer, more open digital world. It provides comprehensive solutions and a traffic incubator for building more complex digital ecosystems, driving innovation in the new generation of public blockchain technology and the prosperity of the application ecology.
+As the native functional token of Pandora Chain, PDA is the driving force of the entire ecosystem. It not only serves as a medium for transactions and payments but is also key to participating in ecological governance and network upgrades, making it the core of various activities in the ecosystem.",
+ "explorer": "",
+ "type": "ERC20",
+ "symbol": "PDA",
+ "decimals": 18,
+ "status": "active",
+ "id": ""
+}
