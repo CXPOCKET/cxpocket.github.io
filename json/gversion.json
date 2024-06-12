@@ -1,0 +1,17 @@
+{
+	"version": "1.1.4",
+	"isUniform":false,
+	"content": "1.Fix some known issues",
+	"contenten": "1.Fix some known issues",
+	"contentja": "1.Fix some known issues",
+	"contentko": "1.Fix some known issues",
+	"contentth": "1.Fix some known issues",
+	"contentvi": "1.Fix some known issues",
+	"url": "",
+	"downloadPageUrl":"https://www.athenawallet.net",
+	"website":"www.athenawallet.net",
+	"Customer_email":"support@athenawallet.net",
+	"Business_email":"partnerships@athenawallet.net",
+	"submit_dapp":"dapp@athenawallet.net",
+	"note":"(更新说明)isUniform值为true时，所有语言版本只会显示content里面的内容"
+}
