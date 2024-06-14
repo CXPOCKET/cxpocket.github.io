@@ -33,10 +33,10 @@
                         "logo": "https://athena-wallet.github.io/pg/dapplogo/zeus.png"
                     },
                     {
-                        "name": "社区",
+                        "name": "教育社区",
                         "des": "",
-                        "url": "",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/community.png"
+                        "url": "https://pandorachain.notion.site/Pandora-Chain-dbde167e91ac4a26981c2cada354100d",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/education.png"
                     },
                     {
                         "name": "社区热点",
