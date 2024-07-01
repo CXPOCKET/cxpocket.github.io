@@ -1,0 +1,15 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "url": "https://rpc.pandorachain.org"
+    },
+    {
+      "url": "https://rpc2.pandorachain.org "
+    },
+    {
+      "url": "https://rpc3.pandorachain.org "
+    }
+  ]
+}
