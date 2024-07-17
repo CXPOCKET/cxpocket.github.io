@@ -15,6 +15,10 @@
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/zh_3.png",
 				"url": "3"
+				},
+				{
+				"image": "https://athena-wallet.github.io/dappbaner/zh_4.png",
+				"url": "4"
 				}
 			      ],
 			"zh_Hant": [{
@@ -33,6 +37,10 @@
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/en_3.png",
 				"url": "3"
+				},
+				{
+				"image": "https://athena-wallet.github.io/dappbaner/en_4.png",
+				"url": "4"
 				}
 			       ],
 			"ja": [{
