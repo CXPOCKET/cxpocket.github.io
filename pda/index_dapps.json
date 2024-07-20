@@ -24,43 +24,43 @@
                         "name": "Pandora",
                         "des": "",
                         "url": "https://pandorachain.org",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/pandora.png"
+                        "logo": "https://athena-wallet.github.io/pda/dapplogo/pandora.png"
                     },
                     {
                         "name": "Zeus",
                         "des": "",
                         "url": "",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/zeus.png"
+                        "logo": "https://athena-wallet.github.io/pda/dapplogo/zeus.png"
                     },
                     {
                         "name": "教育社区",
                         "des": "",
                         "url": "https://pandorachain.notion.site/Pandora-Chain-dbde167e91ac4a26981c2cada354100d",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/educations.png"
+                        "logo": "https://athena-wallet.github.io/pda/dapplogo/educations.png"
                     },
                     {
                         "name": "社区热点",
                         "des": "",
                         "url": "https://athenawallet.gitbook.io/she-qu-re-dian/",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/hotspots.jpg"
+                        "logo": "https://athena-wallet.github.io/pda/dapplogo/hotspots.jpg"
                     },
                     {
                         "name": "社交",
                         "des": "",
                         "url": "",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/social.png"
+                        "logo": "https://athena-wallet.github.io/pda/dapplogo/social.png"
                     },
                     {
                         "name": "咨询",
                         "des": "",
                         "url": "",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/consult.png"
+                        "logo": "https://athena-wallet.github.io/pda/dapplogo/consult.png"
                     },
                     {
                         "name": "矿池",
                         "des": "",
                         "url": "https://pool.pdachain.io?language=zh",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/mining.png"
+                        "logo": "https://athena-wallet.github.io/pda/dapplogo/mining.png"
                     }
                 ]
             }
