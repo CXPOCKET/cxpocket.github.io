@@ -1,6 +1,6 @@
 {
 	"version": "1.1.7",
-	"isUniform":false,
+	"isUniform":true,
 	"content": "1.Fix some known issues",
 	"content_zh": "1. 首页新增节点状态显示小圆点，点击可以进入节点选择界面.\n2. 修复首页代币显示错误的问题.\n3. 优化我的资产页面加载速度.",
 	"content_zh_Hant": "1. 首頁新增節點狀態顯示小圓點，點選可以進入節點選擇介面.\n2. 修復首頁代幣顯示錯誤的問題.\n3. 最佳化我的資產頁面載入速度.",
