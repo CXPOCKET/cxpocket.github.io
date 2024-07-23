@@ -2,7 +2,7 @@
 	"version": "1.1.7",
 	"isUniform":false,
 	"content": "1.Fix some known issues",
-	"content_zh": "1.资产页面顶部新增节点状态显示小圆点，点击可以进入节点选择界面。/n2.修复资产页面代币显示错误的问题。/n3.优化我的资产页面显示速度。",
+	"content_zh": "1. 资产页面顶部新增节点状态显示小圆点，点击可以进入节点选择界面.\n2. 修复资产页面代币显示错误的问题.\n3. 优化我的资产页面显示速度.",
 	"content_zh_Hant": "1.修復一些已知問題",
 	"content_en": "1.Fix some known issues",
 	"content_ja": "1.いくつかの既知の問題を修正",
