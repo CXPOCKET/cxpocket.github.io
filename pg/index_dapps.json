@@ -61,7 +61,13 @@
                         "des": "",
                         "url": "https://pool.pdachain.io?language=zh",
                         "logo": "https://athena-wallet.github.io/pg/dapplogo/mining.png"
-                    }
+                    }，
+                    {
+                        "name": "ZUESIDO",
+                        "des": "",
+                        "url": "https://ido.poseidonex.org/",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/zeus.png"
+                    },
                 ]
             }
         ]
