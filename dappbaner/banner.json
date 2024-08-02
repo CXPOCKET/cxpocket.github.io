@@ -5,10 +5,6 @@
 		"banners": {
 			"zh": [
 				{
-				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
-				"url": "1"
-				},
-				{
 				"image": "https://athena-wallet.github.io/dappbaner/zh_5.png",
 				"url": "5"
 				},
@@ -30,10 +26,6 @@
 				"url": "1"
 			}],
 			"en": [
-				{
-				"image": "https://athena-wallet.github.io/dappbaner/en.png",
-				"url": "1"
-				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/en_5.png",
 				"url": "5"
