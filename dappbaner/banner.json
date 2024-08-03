@@ -5,6 +5,10 @@
 		"banners": {
 			"zh": [
 				{
+				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
+				"url": "1"
+				},
+				{
 				"image": "https://athena-wallet.github.io/dappbaner/zh_5.png",
 				"url": "5"
 				},
