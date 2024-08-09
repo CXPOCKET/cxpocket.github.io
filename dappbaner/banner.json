@@ -10,24 +10,24 @@
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
-				"url": "1"
+				"url": ""
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/zh_2.png",
-				"url": "2"
+				"url": ""
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/zh_3.png",
-				"url": "3"
+				"url": ""
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/zh_4.png",
-				"url": "4"
+				"url": ""
 				}
 			      ],
 			"zh_Hant": [{
 				"image": "https://athena-wallet.github.io/dappbaner/zh_Hant.png",
-				"url": "1"
+				"url": ""
 			}],
 			"en": [
 				{
@@ -36,19 +36,19 @@
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/en.png",
-				"url": "1"
+				"url": ""
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/en_2.png",
-				"url": "2"
+				"url": ""
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/en_3.png",
-				"url": "3"
+				"url": ""
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/en_4.png",
-				"url": "4"
+				"url": ""
 				}
 			       ],
 			"ja": [{
