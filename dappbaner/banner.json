@@ -9,6 +9,10 @@
 				"url": "https://ido.poseidonex.org"
 				},
 				{
+				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
+				"url": "1"
+				},
+				{
 				"image": "https://athena-wallet.github.io/dappbaner/zh_2.png",
 				"url": "2"
 				},
@@ -28,7 +32,11 @@
 			"en": [
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/en_6.png",
-				"url": "6"
+				"url": "https://ido.poseidonex.org"
+				},
+				{
+				"image": "https://athena-wallet.github.io/dappbaner/en.png",
+				"url": "1"
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/en_2.png",
