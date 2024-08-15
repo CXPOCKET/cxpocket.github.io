@@ -60,6 +60,12 @@
                         "des": "",
                         "url": "https://ido.poseidonex.org?language=en",
                         "logo": "https://athena-wallet.github.io/pg/dapplogo/zeus.png"
+                    },
+                    {
+                        "name": "PDAGas station",
+                        "des": "",
+                        "url": "https://tapi.athenawallet.co/gas/?language=en#/",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/PDAGas.png"
                     }
                 ]
             }
