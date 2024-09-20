@@ -3,9 +3,9 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "MATIC",
+      "name": "TRX",
       "protocol": "20",
-      "symbol": "MATIC",
+      "symbol": "TRX",
       "address": "",
       "decimals": 6,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
