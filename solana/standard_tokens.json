@@ -3,20 +3,20 @@
   "reason": "获取成功",
   "data": [
     {
-      "name": "TRX",
+      "name": "SQL",
       "protocol": "20",
-      "symbol": "TRX",
+      "symbol": "SQL",
       "address": "",
-      "decimals": 6,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+      "decimals": 9,
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d6c6162732f746f6b656e2d6c6973742f6d61696e2f6173736574732f6d61696e6e65742f536f31313131313131313131313131313131313131313131313131313131313131313131313131313131322f6c6f676f2e706e67"
     },
     {
       "name": "(PoS) Tether USD",
       "protocol": "20",
       "symbol": "USDT",
-      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "decimals": 6,
-      "logoURI": "https://athena-wallet.github.io/tron/tr7nhqjekqxgtci8q8zy4pl8otszgjlj6t/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg"
     }
   ]
 }
