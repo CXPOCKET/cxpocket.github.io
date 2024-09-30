@@ -1,0 +1,69 @@
+{
+    "errorCode": 0,
+    "reason": "获取成功",
+    "data": {
+        "banners": [
+            {
+                "image": "https://athena-wallet.github.io/dappbaner/cn.png",
+                "url": "1"
+            },
+            {
+                "image": "https://athena-wallet.github.io/dappbaner/cn.png",
+                "url": "2"
+            },
+            {
+                "image": "https://athena-wallet.github.io/dappbaner/cn.png",
+                "url": "3"
+            }
+        ],
+        "dapps": [
+            {
+                "type": "热门推荐",
+                "items": [
+                    {
+                        "name": "Pandora",
+                        "des": "",
+                        "url": "https://sunswap.com",
+                        "logo": "https://sunswap.com"
+                    },
+                    {
+                        "name": "Zeus",
+                        "des": "",
+                        "url": "http://192.168.1.61:3000/",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/zeus.png"
+                    },
+                    {
+                        "name": "教育社区",
+                        "des": "",
+                        "url": "https://pandorachain.notion.site/Pandora-Chain-dbde167e91ac4a26981c2cada354100d",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/education.png"
+                    },
+                    {
+                        "name": "社区热点",
+                        "des": "",
+                        "url": "https://athenawallet.gitbook.io/she-qu-re-dian/",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/hotspots.jpg"
+                    },
+                    {
+                        "name": "社交",
+                        "des": "",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/social.png"
+                    },
+                    {
+                        "name": "咨询",
+                        "des": "",
+                        "url": "",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/consult.png"
+                    },
+                    {
+                        "name": "矿池",
+                        "des": "",
+                        "url": "https://pool.pdachain.io?language=zh",
+                        "logo": "https://athena-wallet.github.io/pg/dapplogo/mining.png"
+                    }
+                ]
+            }
+        ]
+    }
+}
