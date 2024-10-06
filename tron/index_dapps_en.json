@@ -24,25 +24,25 @@
                         "name": "SunSwap",
                         "des": "",
                         "url": "https://sun.io/#/v3/swap",
-                        "logo": "https://dappradar.com/image-resizer/width=32,quality=100/https://dashboard-assets.dappradar.com/document/47535/sunswapv3-project-exchanges-47535-logo_e4186ce7b1e63a4889a987e38b21649e.png"
+                        "logo": "https://static.tronscan.org/production/upload/logo/sun10.png"
                     },
                     {
-                        "name": "Sun Pump",
+                        "name": "Staked USDT",
                         "des": "",
-                        "url": "https://sunpump.meme",
-                        "logo": "https://dappradar.com/image-resizer/width=32,quality=100/https://dashboard-assets.dappradar.com/document/49792/sunpump-project-defi-49792-logo_1528aab7e8b2868e647ef48cafe3eb7a.png"
+                        "url": "https://stusdt.io/",
+                        "logo": "https://static.tronscan.org/producion/upload/logo/new/stUSDT_logo.png"
                     },
                     {
                         "name": "JustLend",
                         "des": "",
                         "url": "https://justlend.org/",
-                        "logo": "https://dappradar.com/image-resizer/width=32,quality=100/https://dashboard-assets.dappradar.com/document/5478/justlend-dapp-defi-tron-logo_cb43167e29ea35d021c28b7f3a0e6e01.png"
+                        "logo": "https://static.tronscan.org/production/upload/logo/justlend.png"
                     },
                     {
                         "name": "Tron Scan",
                         "des": "",
                         "url": "https://tronscan.org",
-                        "logo": ""
+                        "logo": "https://static.tronscan.org/production/upload/logo/Staking.png"
                     }
                 ]
             }
