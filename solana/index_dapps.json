@@ -21,46 +21,16 @@
                 "type": "热门推荐",
                 "items": [
                     {
-                        "name": "Pandora",
+                        "name": "Jupiter",
                         "des": "",
-                        "url": "https://sunswap.com",
-                        "logo": "https://sunswap.com"
+                        "url": "https://jup.ag",
+                        "logo": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f737461746963732e736f6c7363616e2e696f2f63646e2f696d67732f7336303f7265663d3638373437343730373333613266326637333734363137343639363332653661373537303265363136373266366137353730326636393633366636653265373036653637"
                     },
                     {
-                        "name": "Zeus",
+                        "name": "Raydium",
                         "des": "",
-                        "url": "http://192.168.1.61:3000/",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/zeus.png"
-                    },
-                    {
-                        "name": "教育社区",
-                        "des": "",
-                        "url": "https://pandorachain.notion.site/Pandora-Chain-dbde167e91ac4a26981c2cada354100d",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/education.png"
-                    },
-                    {
-                        "name": "社区热点",
-                        "des": "",
-                        "url": "https://athenawallet.gitbook.io/she-qu-re-dian/",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/hotspots.jpg"
-                    },
-                    {
-                        "name": "社交",
-                        "des": "",
-                        "url": "",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/social.png"
-                    },
-                    {
-                        "name": "咨询",
-                        "des": "",
-                        "url": "",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/consult.png"
-                    },
-                    {
-                        "name": "矿池",
-                        "des": "",
-                        "url": "https://pool.pdachain.io?language=zh",
-                        "logo": "https://athena-wallet.github.io/pg/dapplogo/mining.png"
+                        "url": "https://raydium.io",
+                        "logo": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f737461746963732e736f6c7363616e2e696f2f65782d696d672f52564b6436317a745a5739475577685262624c6f59565245355866314232745673634b71775a71586745722e706e67"
                     }
                 ]
             }
