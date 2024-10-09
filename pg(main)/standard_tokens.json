@@ -8,7 +8,7 @@
       "symbol": "PG",
       "address": "",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
+      "logoURI": "https://athena-wallet.github.io/pg(main)/pg/pg.jpg"
     },
     {
       "name": "USDT",
@@ -16,7 +16,7 @@
       "symbol": "USDT",
       "address": "0x02F9Bebf5E54968D8Cc2562356C91ECDE135801B",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/usdt.png"
+      "logoURI": "https://athena-wallet.github.io/pg(main)/pg/usdt.png"
       },
     {
       "name": "W3",
@@ -24,7 +24,7 @@
       "symbol": "W3",
       "address": "0xf88634C560a4AA2c6034DAd4Dc5e931A65cdF954",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/w3.png"
+      "logoURI": "https://athena-wallet.github.io/pg(main)/pg/w3.png"
     },
     {
       "name": "W3W",
@@ -32,7 +32,7 @@
       "symbol": "W3W",
       "address": "0x5AbD5f6Bbe0B48E9179F6307eAea032d998B4a7e",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3W.png"
+      "logoURI": "https://athena-wallet.github.io/pg(main)/pg/W3W.png"
     },
     {
       "name": "W3B",
@@ -40,7 +40,7 @@
       "symbol": "W3B",
       "address": "0xe28489df1c10465934Ac9FDF755a6cDF86cC1559",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3B.png"
+      "logoURI": "https://athena-wallet.github.io/pg(main)/pg/W3B.png"
     }
   ]
 }
