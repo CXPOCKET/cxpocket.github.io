@@ -21,13 +21,13 @@
                     },
                     {
                         "name": "W3跨链桥",
-                        "des": "",
+                        "des": "W3 Bridge是致力于打破当前Web3世界“孤岛效应”的通用型跨链桥，核心使命是“让资产和价值以最简单、最快速、最低成本的方式无障碍地在多个区块链间流动”。",
                         "url": "https://www.w3bridge.net/",
                         "logo": "https://athena-wallet.github.io/pg(main)/pg/W3B.png"
                     },
                     {
                         "name": "W3BANK",
-                        "des": "",
+                        "des": "W3K是去中心化借贷市场W3Bank的原生治理代币，W3Bank是专注于构建安全借贷市场的平台，是激发PEGO生态流动性二次增长的核心组件。",
                         "url": "https://w3bank.finance/",
                         "logo": "https://athena-wallet.github.io/pg(main)/pg/W3BANK.png"
                     }
