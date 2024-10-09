@@ -14,19 +14,19 @@
                 "items": [
                     {
                         "name": "W3Swap",
-                        "des": "以颠覆式创新形式立足WEB3，打造聚合高流动性的自适应交易生态。",
+                        "des": "W3Swap is a fully decentralized aggregation exchange, dedicated to creating a highly liquid aggregation trading ecosystem and providing more valuable liquidity services for global users.",
                         "url": "https://w3swap.link",
                         "logo": "https://athena-wallet.github.io/pg(main)/dapplogo/W3Swap.png"
                     },
                     {
                         "name": "W3 Bridge",
-                        "des": "",
+                        "des": "W3 Bridge is a universal cross-chain bridge dedicated to breaking the "island effect" in the current Web3 world. Its core mission is to "facilitate the frictionless flow of assets and value across multiple blockchains in the simplest, fastest, and most cost-effective manner.",
                         "url": "https://www.w3bridge.net/",
                         "logo": "https://athena-wallet.github.io/pg(main)/pg/W3B.png"
                     },
                     {
                         "name": "W3BANK",
-                        "des": "",
+                        "des": "W3K is the native governance token of the decentralized lending market W3Bank. W3Bank is a platform focused on building a secure lending market and is a core component to stimulate the secondary growth of liquidity in the PEGO ecosystem.",
                         "url": "https://w3bank.finance/",
                         "logo": "https://athena-wallet.github.io/pg(main)/pg/W3BANK.png"
                     }
