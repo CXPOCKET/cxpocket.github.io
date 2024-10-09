@@ -2,6 +2,14 @@
   "errorCode": 0,
   "reason": "获取成功",
   "data": [
+    {
+      "name": "Wrapped PG",
+      "protocol": "20",
+      "symbol": "WPG",
+      "address": "0x0cF4071940782b640d0b595Cb17bDf3E90869d70",
+      "decimals": 18,
+      "logoURI": "https://athena-wallet.github.io/pg(main)/pg/pg.jpg"
+    },
      {
       "name": "USDT",
       "protocol": "20",
