@@ -14,12 +14,6 @@
                 "type": "热门推荐",
                 "items": [
                     {
-                        "name": "PEGO官网",
-                        "des": "",
-                        "url": "https://pego.network/",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
-                    },
-                    {
                         "name": "W3Swap",
                         "des": "以颠覆式创新形式立足WEB3，打造聚合高流动性的自适应交易生态。",
                         "url": "https://w3swap.link",
@@ -36,18 +30,6 @@
                         "des": "",
                         "url": "https://w3bank.finance/",
                         "logo": "https://static.w3wallet.link/pg(main)/pg/W3BANK.png"
-                    },
-                    {
-                        "name": "治理",
-                        "des": "",
-                        "url": "https://pego.network/#/DAO",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
-                    },
-                    {
-                        "name": "节点竞选",
-                        "des": "",
-                        "url": "https://pego.network/#/Validator",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/pg.jpg"
                     }
                 ]
             }
