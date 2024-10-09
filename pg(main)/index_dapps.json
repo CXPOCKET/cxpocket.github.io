@@ -17,19 +17,19 @@
                         "name": "W3Swap",
                         "des": "以颠覆式创新形式立足WEB3，打造聚合高流动性的自适应交易生态。",
                         "url": "https://w3swap.link",
-                        "logo": "https://static.w3wallet.link/pg(main)/dapplogo/W3Swap.png"
+                        "logo": "https://athena-wallet.github.io/pg(main)/dapplogo/W3Swap.png"
                     },
                     {
                         "name": "W3跨链桥",
                         "des": "",
                         "url": "https://www.w3bridge.net/",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/W3B.png"
+                        "logo": "https://athena-wallet.github.io/pg(main)/pg/W3B.png"
                     },
                     {
                         "name": "W3BANK",
                         "des": "",
                         "url": "https://w3bank.finance/",
-                        "logo": "https://static.w3wallet.link/pg(main)/pg/W3BANK.png"
+                        "logo": "https://athena-wallet.github.io/pg(main)/pg/W3BANK.png"
                     }
                 ]
             }
