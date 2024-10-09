@@ -17,15 +17,7 @@
       "address": "0x02F9Bebf5E54968D8Cc2562356C91ECDE135801B",
       "decimals": 18,
       "logoURI": "https://static.w3wallet.link/pg(main)/pg/usdt.png"
-      },
-     {
-      "name": "OSKDAO",
-      "protocol": "20",
-      "symbol": "OSKDAO",
-      "address": "0x1385Aa68AC960Abb0112aa5905FACE08EFe48053",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/oskdao.png"
-      },
+      }
     {
       "name": "W3",
       "protocol": "20",
@@ -33,14 +25,6 @@
       "address": "0xf88634C560a4AA2c6034DAd4Dc5e931A65cdF954",
       "decimals": 18,
       "logoURI": "https://static.w3wallet.link/pg(main)/pg/w3.png"
-    },
-    {
-      "name": "W3B",
-      "protocol": "20",
-      "symbol": "W3B",
-      "address": "0xe28489df1c10465934Ac9FDF755a6cDF86cC1559",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3B.png"
     },
     {
       "name": "W3W",
@@ -51,92 +35,12 @@
       "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3W.png"
     },
     {
-      "name": "WeDex",
+      "name": "W3B",
       "protocol": "20",
-      "symbol": "WEC",
-      "address": "0xfa272d391895a955021e7cc99e076efe31e9c985",
+      "symbol": "W3B",
+      "address": "0xe28489df1c10465934Ac9FDF755a6cDF86cC1559",
       "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/0xfa272d391895a955021e7cc99e076efe31e9c985/logo.png"
-      },
-    {
-      "name": "PNN",
-      "protocol": "20",
-      "symbol": "PNN",
-      "address": "0xB84AC451A43B9A81d753c9a9d1F4F9A1B9DB4BFb",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/pnn.png"
-    },
-    {
-      "name": "PNS",
-      "protocol": "20",
-      "symbol": "PNS",
-      "address": "0xdDab45b5df2031eF4195091167a9Ff0830211094",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/pns.png"
-    },
-    {
-      "name": "VT",
-      "protocol": "20",
-      "symbol": "VT",
-      "address": "0x0000000000000000000000000000000000001000",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/vt.png"
-    },
-    {
-      "name": "PGVT",
-      "protocol": "20",
-      "symbol": "PGVT",
-      "address": "0x0000000000000000000000000000000000001004",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/pgvt.png"
-    },
-    {
-      "name": "W3-LP(PG/USDT)",
-      "protocol": "20",
-      "symbol": "W3-LP(PG/USDT)",
-      "address": "0x025FD0fbEA749E0ac2F032A6F53b6d70bD1adb58",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3-LP(PG:USDT).png"
-    },
-    {
-      "name": "W3FT(PG/USDT)",
-      "protocol": "20",
-      "symbol": "W3FT(PG/USDT)",
-      "address": "0x7E717d554dfCf710876286DB51c7583aE4898982",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3FT(PG:USDT).png"
-    },
-    {
-      "name": "W3-LP(PG/OSKDAO)",
-      "protocol": "20",
-      "symbol": "W3-LP(PG/OSKDAO)",
-      "address": "0x91bbFbA8ad863AC66b8eA74429a183a31944d096",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3-LP(PG:OSKDAO).png"
-    },
-    {
-      "name": "W3FT(PG/OSKDAO)",
-      "protocol": "20",
-      "symbol": "W3FT(PG/OSKDAO)",
-      "address": "0xD5683B68e9087A39150B113cBb5aF5e6C119A3B3",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3FT(PG:OSKDAO) .png"
-    },
-    {
-      "name": "W3BANK",
-      "protocol": "20",
-      "symbol": "W3K",
-      "address": "0xce721d6c56c628a5ebde4783abb9d70d2053aab9",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/0xce721d6c56c628a5ebde4783abb9d70d2053aab9/logo.png"
-    },
-    {
-      "name": "Antworld",
-      "protocol": "20",
-      "symbol": "AD",
-      "address": "0xbad7179fee3f0241c9bbf04267f2968e3531322e",
-      "decimals": 18,
-      "logoURI": "https://static.w3wallet.link/pg(main)/0xbad7179fee3f0241c9bbf04267f2968e3531322e/logo.png"
+      "logoURI": "https://static.w3wallet.link/pg(main)/pg/W3B.png"
     }
   ]
 }
