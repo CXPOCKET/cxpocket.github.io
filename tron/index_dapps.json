@@ -27,10 +27,10 @@
                         "logo": "https://static.tronscan.org/production/upload/logo/sun10.png"
                     },
                     {
-                        "name": "Staked USDT",
+                        "name": "能量租凭",
                         "des": "",
-                        "url": "https://stusdt.io/",
-                        "logo": "https://static.tronscan.org/production/upload/logo/new/stUSDT_logo.png"
+                        "url": "https://tronify.ai",
+                        "logo": "https://athena-wallet.github.io/tron/dapplogo/tronify.png"
                     },
                     {
                         "name": "JustLend",
