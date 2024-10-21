@@ -2,18 +2,22 @@
     "errorCode": 0,
     "reason": "获取成功",
     "data": {
-        "banners": [
+          "banners": [
             {
-                "image": "https://athena-wallet.github.io/dappbaner/cn.png",
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-a.jpg",
                 "url": "1"
             },
             {
-                "image": "https://athena-wallet.github.io/dappbaner/cn.png",
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-b.jpg",
                 "url": "2"
             },
             {
-                "image": "https://athena-wallet.github.io/dappbaner/cn.png",
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-c.jpg",
                 "url": "3"
+            },
+            {
+                "image": "https://hashpayinfo.github.io/eth/banner/banner-d.jpg",
+                "url": "4"
             }
         ],
         "dapps": [
