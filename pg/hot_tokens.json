@@ -17,6 +17,14 @@
       "address": "0x31813F817351c0898B2A06687517385c16615016",
       "decimals": 18,
       "logoURI": "https://static.w3wallet.link/halo/0x41515885251e724233c6cA94530d6dcf3A20dEc7/logo.png"
+    },
+    {
+      "name": "Pandora Vote Token",
+      "protocol": "20",
+      "symbol": "PVT",
+      "address": "0x000000000000000000000000000000000000000F",
+      "decimals": 18,
+      "logoURI": "https://athena-wallet.github.io/pg/0x000000000000000000000000000000000000000f/logo.png"
     }
   ]
 }
