@@ -5,12 +5,12 @@
 		"banners": {
 			"zh": [
 				{
-				"image": "https://athena-wallet.github.io/dappbaner/zh_6.png",
-				"url": "https://pool.pdachain.io?language=zh"
+				"image": "https://athena-wallet.github.io/dappbaner/zh_0.png",
+				"url": ""
 				},
 				{
-				"image": "https://athena-wallet.github.io/dappbaner/cn.png",
-				"url": ""
+				"image": "https://athena-wallet.github.io/dappbaner/zh_1.png",
+				"url": "https://zeuspools.io?language=zh"
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/zh_2.png",
@@ -31,12 +31,12 @@
 			}],
 			"en": [
 				{
-				"image": "https://athena-wallet.github.io/dappbaner/en_6.png",
-				"url": "https://pool.pdachain.io?language=en"
+				"image": "https://athena-wallet.github.io/dappbaner/en_0.png",
+				"url": ""
 				},
 				{
-				"image": "https://athena-wallet.github.io/dappbaner/en.png",
-				"url": ""
+				"image": "https://athena-wallet.github.io/dappbaner/en_1.png",
+				"url": "https://zeuspools.io?language=en"
 				},
 				{
 				"image": "https://athena-wallet.github.io/dappbaner/en_2.png",
