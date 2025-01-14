@@ -1,5 +1,5 @@
 {
-	"version": "1.3.2",
+	"version": "1.0.1",
 	"isUniform":true,
 	"content": "1.Optimize observation wallet access \n2.Partial page UI adjustment",
 	"content_zh": "1.优化观察钱包访问 \n2.部分页面UI调整",
@@ -14,10 +14,10 @@
 	"content_id": "1.Optimize observation wallet access \n2.Partial page UI adjustment",
 	"content_vi": "1.Optimize observation wallet access \n2.Partial page UI adjustment",
 	"url": "",
-	"downloadPageUrl":"https://www.athenawallet.net",
-	"website":"www.athenawallet.net",
-	"Customer_email":"support@athenawallet.net",
-	"Business_email":"partnerships@athenawallet.net",
-	"submit_dapp":"dapp@athenawallet.net",
+	"downloadPageUrl":"https://www.cxpocket.net",
+	"website":"www.cxpocket.net",
+	"Customer_email":"support@cxpocket.net",
+	"Business_email":"partnerships@cxpocket.net",
+	"submit_dapp":"dapp@cxpocket.net",
 	"note":"(更新说明)isUniform值为true时，所有语言版本只会显示content里面的内容"
 }
