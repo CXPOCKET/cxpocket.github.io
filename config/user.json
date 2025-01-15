@@ -1,0 +1,35 @@
+{
+	"errorCode": 0,
+	"reason": "获取成功",
+	"data": {
+		"guide": {
+			"zh": [
+				{
+				"image": "https://cxpocket.github.io/dappbanner/zh.png",
+				"title":"探索 CXPocket Wallet 活动，每周丰厚奖励 等您来领取",
+        "describe":"探索 CXPocket Wallet 活动，每周丰厚奖励 等您来领取",
+				"url": ""
+				},
+				{
+				"image": "https://cxpocket.github.io/dappbanner/zh.png",
+				"title":"探索 CXPocket Wallet 活动，每周丰厚奖励 等您来领取",
+        "describe":"探索 CXPocket Wallet 活动，每周丰厚奖励 等您来领取",
+				"url": ""
+				}
+			      ],
+			
+			"en": [
+				{
+				"image": "https://cxpocket.github.io/dappbanner/zh.png",
+				"title":"探索 CXPocket Wallet 活动，每周丰厚奖励 等您来领取",
+        "describe":"探索 CXPocket Wallet 活动，每周丰厚奖励 等您来领取",
+				"url": ""
+				},
+				{
+				"image": "https://cxpocket.github.io/dappbanner/zh.png",
+				"title":"探索 CXPocket Wallet 活动，每周丰厚奖励 等您来领取",
+        "describe":"探索 CXPocket Wallet 活动，每周丰厚奖励 等您来领取",
+				"url": ""
+				}
+      ]		
+}
